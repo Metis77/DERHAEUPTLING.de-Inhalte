@@ -32,4 +32,28 @@
 
 Ziel: Bessere Ergebnisse durch konstruktiven Widerspruch statt blindes Ausführen.
 
-Siehe [.mcp.json](../.mcp.json) für die vollständige Konfiguration.
+## Projektstruktur
+
+```
+DH Inhalte/
+├── research/              # Keyword-Recherche, Wettbewerber-Analysen
+├── sitemap/               # Seitenstruktur & Informationsarchitektur
+├── seiten/                # Inhalte pro Seite
+│   ├── homepage/
+│   ├── webdesign/
+│   ├── seo/
+│   ├── barrierefreiheit/
+│   ├── ux-ui/
+│   ├── baukasten/
+│   ├── referenzen/
+│   ├── ueber-uns/
+│   └── kontakt/
+├── tracking/              # Entscheidungslog, Fortschritt
+└── .claude/
+    └── product-marketing-context.md  # Positionierung, Zielgruppe, Voice etc.
+```
+
+## Wichtige Kontextdokumente
+
+- **TODO.md** (Root) – Aufgaben und Fortschritt. Bei Sessionstart lesen, nach erledigten Aufgaben aktualisieren.
+- **Product Marketing Context:** `.claude/product-marketing-context.md` – Positionierung, Zielgruppe, Differenzierung, Brand Voice, Conversion-Strategie. Wird von Marketing-Skills automatisch referenziert.
