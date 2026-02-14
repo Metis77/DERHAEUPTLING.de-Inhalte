@@ -1,7 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "Read(//Users/nook/Sites/**)"
+      "Read(//Users/nook/Sites/**)",
+      "WebFetch(domain:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Read(//Users/nook/.agents/skills/**)",
+      "Read(//Users/nook/.agents/**)",
+      "Read(//Users/nook/**)",
+      "Bash(cd:*)"
     ]
   }
 }
