@@ -1,23 +1,37 @@
 # Product Marketing Context
 
-_Last updated: 2026-02-14_
+_Last updated: 2026-02-16_
 
 ## Product Overview
 
 **One-liner:** Webdesign, Webentwicklung und digitale Lösungen aus Regensburg – von der Idee bis zum Launch und darüber hinaus.
 
 **Was wir machen:**
-DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im eingespielten Netzwerk aus Konzeptern, Designern und Webentwicklern. Das Angebot reicht von individuellen Premium-Projekten (Design, Entwicklung, SEO, Barrierefreiheit) bis zu einem Website-Baukasten für Selbermacher (SiteJet-basiert). Laufende Betreuung (SEO, Wartung, Support) gehört ebenfalls zum Portfolio.
+DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im eingespielten Netzwerk aus Konzeptern, Designern und Webentwicklern. Das Angebot umfasst individuelle Premium-Projekte (Design, Entwicklung, SEO, Barrierefreiheit), komplette Hosting-Infrastruktur (Server, Domains, E-Mail, CDN, DevOps) und laufende Betreuung (Wartung & Support mit Stundenkontingenten). Für Budget-Kunden gibt es im Hosting inkludierte Self-Service-Tools (SiteJet-Baukasten, WordPress), die aber nicht aktiv auf der Website beworben werden.
 
 **Produktkategorie:** Webdesign-Agentur / Digitalagentur
 
-**Produkttyp:** Dienstleistung + SaaS-Reselling (Baukasten)
+**Produkttyp:** Dienstleistung + Hosting (mit Self-Service-Tools)
 
 **Business Model:**
 
 - Projektbasiert (individuelle Websites, Shops, Web-Apps)
 - Pakete (SEO-Audits, Barrierefreiheit, Beratung)
-- Recurring (Baukasten-Hosting, Wartung & Support)
+- Recurring (Hosting, Wartung & Support)
+
+**Hosting & Infrastruktur (Full-Service):**
+DER HÄUPTLING bietet komplette digitale Infrastruktur aus einer Hand – der Kunde muss sich um nichts kümmern:
+- **Webhosting** auf eigenen Servern mit Plesk-Verwaltung
+- **Domains** über externen Domain-Reseller
+- **E-Mail** – Microsoft Exchange und Business-Postfächer
+- **CDN & Performance** – Cloudflare
+- **DevOps & Deployment** – Git Actions, Git-basierte Deployments (Deployer), Vercel (für JS-Apps)
+- **Monitoring** – Uptime-Monitoring
+- **Tracking** – Matomo (datenschutzkonform, kein Google Analytics nötig)
+- **Self-Service-Tools** im Hosting inkludiert:
+  - SiteJet (Baukasten von WebPros/Plesk) – Website per Drag & Drop oder KI erstellen
+  - WordPress 1-Click-Install
+- **Upsell-Pfad:** Kunde startet mit Hosting/Baukasten → stößt an Grenzen → wird Premium-Kunde
 
 **Preisrange:** Breit – von günstigem Baukasten-Hosting bis zu individuellen Premium-Projekten
 
@@ -64,7 +78,7 @@ DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im ei
 
 **Direkt:** Andere Webdesign-Agenturen in Regensburg (~50+)
 **Sekundär:** Freelancer, günstige Offshore-Anbieter
-**Indirekt:** Website-Baukästen (Wix, Jimdo, Ionos) – werden mit eigenem Baukasten-Angebot adressiert
+**Indirekt:** Website-Baukästen (Wix, Jimdo, Ionos) – werden über SiteJet im Hosting-Paket adressiert
 
 ## Differentiation
 
@@ -140,12 +154,12 @@ DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im ei
 - SEO & GEO
 - UX & UI Design
 - Webdesign (Apps, Shops, Webseiten)
-- Website-Baukasten (SiteJet-basiert)
+- Hosting (inkl. SiteJet-Baukasten & WordPress)
 
 **Conversion Actions:**
 
 - Premium-Seiten: Kontaktformular / Terminanfrage
-- Baukasten-Seite: Direkt buchen
+- Hosting-Seite: Kontakt (technische Infrastruktur, kein Self-Service-Checkout)
 
 **Aktuelle Baseline:** Rankt gut für "Webdesign Regensburg"
 
@@ -182,7 +196,7 @@ DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im ei
 ### Zwei getrennte Funnels
 
 - **Premium-Funnel:** Landing Page → Referenzen → Prozess → Kontaktanfrage/Termin
-- **Baukasten-Funnel:** Landing Page → Features/Preise → Direkt buchen → Upsell auf Beratung/Support
+- **Bestandskunden-Funnel:** Hosting/Wartung → Paket buchen / Kontakt. Baukasten-Empfehlung nur im persönlichen Gespräch für Budget-Kunden.
 
 ## Inspirationsquellen
 
