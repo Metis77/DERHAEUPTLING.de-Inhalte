@@ -132,7 +132,13 @@ Eigenständige Seite `/hosting` mit Fokus auf **technische Kompetenz**, nicht au
 - Tracking – datenschutzkonform mit Matomo
 
 **Für Techniker (Detail, z.B. aufklappbar):**
-- Plesk, Cloudflare, Vercel, Git Actions, Deployer, Domain-Reselling, Uptime-Monitoring
+- Webhosting auf eigenen Servern mit Plesk-Verwaltung
+- Domains über externen Domain-Reseller
+- E-Mail: Microsoft Exchange und Business-Postfächer
+- CDN: Cloudflare
+- DevOps: Git Actions, Deployer, Vercel (für JS-Apps)
+- Uptime-Monitoring
+- Tracking: Matomo (datenschutzkonform)
 
 **Baukasten/WordPress:** Wird NICHT aktiv auf der Website beworben. Stattdessen im persönlichen Gespräch empfohlen für Kunden ohne Budget. Verweis auf Ratgeber-Artikel `/ratgeber/technologie/sitejet-baukasten` für Self-Service-Anleitung.
 
@@ -177,3 +183,33 @@ Keine `/craft-cms-agentur`-Seiten. Stattdessen ausführliche Ratgeber-Artikel zu
 
 ### SEA als Leistung → Nein, vorerst
 Wird aktuell nicht aktiv angeboten. Kann als Ratgeber-Artikel (`/ratgeber/seo/sea-grundlagen`) vorbereitet werden. Leistungsseite nachrüsten wenn SEA ins Portfolio aufgenommen wird.
+
+## Conversion-Strategie
+
+### Funnel-Stufen
+
+1. **Awareness:** SEO-Landing-Pages ranken für Ziel-Keywords
+2. **Interest:** Leistung + Prozess + Referenzbeispiele zeigen
+3. **Consideration:** Social Proof (Bewertungen, Logos, Referenzen)
+4. **Decision:** CTA je nach Seitentyp (Kontakt/Termin)
+
+### Vertrauenselemente (auf allen Leistungsseiten)
+
+- Kundenbewertungen prominent einbinden (z.B. ProvenExpert, Google Reviews)
+- Kundenlogos zeigen wo möglich
+- Transparenzversprechen / Arbeitsweise offenlegen
+- **Testimonials mit Namen + Rolle** (z.B. "Geschäftsführer, Firma X")
+- **Case Studies statt nur Portfolio:** Problem → Lösung → Ergebnis erzählen
+
+### Technisches SEO
+
+- Schema.org Structured Data (`ProfessionalService`) für lokales SEO in Regensburg
+- Jede Leistungsseite mit eigenem Schema-Markup
+
+## Inspirationsquellen
+
+| Seite               | Was sie gut machen                                                                                                              | Relevant für uns                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| lau.do              | SEO-Landing-Pages pro Leistung, Prozess-Visualisierung, ProvenExpert-Bewertungen, starkes Portfolio                             | Landing-Page-Struktur, Prozess sichtbar machen       |
+| webdesign-berlin.de | Lead-Gen-Fokus, Transparenzversprechen, Video-Einbindung                                                                        | Vertrauenselemente, aktive Lead-Generierung          |
+| bigdropinc.com      | Testimonials mit Name+Titel, Case Studies (Problem→Lösung→Ergebnis), Schema.org Structured Data, AI-Services als Zukunftssignal | Case-Study-Format, Testimonial-Strategie, Schema.org |

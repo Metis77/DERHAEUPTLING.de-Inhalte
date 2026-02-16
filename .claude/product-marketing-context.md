@@ -19,21 +19,9 @@ DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im ei
 - Pakete (SEO-Audits, Barrierefreiheit, Beratung)
 - Recurring (Hosting, Wartung & Support)
 
-**Hosting & Infrastruktur (Full-Service):**
-DER HÄUPTLING bietet komplette digitale Infrastruktur aus einer Hand – der Kunde muss sich um nichts kümmern:
-- **Webhosting** auf eigenen Servern mit Plesk-Verwaltung
-- **Domains** über externen Domain-Reseller
-- **E-Mail** – Microsoft Exchange und Business-Postfächer
-- **CDN & Performance** – Cloudflare
-- **DevOps & Deployment** – Git Actions, Git-basierte Deployments (Deployer), Vercel (für JS-Apps)
-- **Monitoring** – Uptime-Monitoring
-- **Tracking** – Matomo (datenschutzkonform, kein Google Analytics nötig)
-- **Self-Service-Tools** im Hosting inkludiert:
-  - SiteJet (Baukasten von WebPros/Plesk) – Website per Drag & Drop oder KI erstellen
-  - WordPress 1-Click-Install
-- **Upsell-Pfad:** Kunde startet mit Hosting/Baukasten → stößt an Grenzen → wird Premium-Kunde
+**Hosting & Infrastruktur:** Full-Service aus einer Hand (Server, Domains, E-Mail, CDN, DevOps, Monitoring, Tracking). Inkl. Self-Service-Tools (SiteJet-Baukasten, WordPress) für Budget-Kunden. Details → `sitemap/sitemap.md` (Hosting-Seitenkonzept).
 
-**Preisrange:** Breit – von günstigem Baukasten-Hosting bis zu individuellen Premium-Projekten
+**Preisrange:** Breit – von günstigem Hosting bis zu individuellen Premium-Projekten
 
 ## Brand-Struktur
 
@@ -53,12 +41,12 @@ DER HÄUPTLING bietet komplette digitale Infrastruktur aus einer Hand – der Ku
 - Entscheider variiert: Geschäftsführer, Marketing-Leiter, IT-Verantwortliche
 - Suchen individuelle Lösung mit Anspruch an Design und Technik
 
-### 2. Baukasten-Kunden (Self-Service)
+### 2. Hosting-Kunden (Bestandskunden & Empfehlungen)
 
-- Kleine Unternehmen, Gründer, Selbstständige
-- Brauchen eine günstige, schnelle Website
-- Wollen selbst machen, nicht viel Geld ausgeben
-- **Upsell-Potenzial:** Werden zu Beratungs-/Support-Kunden wenn sie merken, dass sie Hilfe brauchen
+- Bestehende Kunden die Hosting, Domains, E-Mail brauchen
+- Kleine Unternehmen / Gründer die im persönlichen Gespräch an Self-Service-Tools (SiteJet, WordPress) verwiesen werden
+- Werden NICHT aktiv auf der Website beworben (diese Zielgruppe geht online eher zu Ionos, Strato etc.)
+- **Upsell-Potenzial:** Starten mit Baukasten → stoßen an Grenzen → werden Premium-Kunden
 
 ## Problems & Pain Points
 
@@ -133,6 +121,11 @@ DER HÄUPTLING bietet komplette digitale Infrastruktur aus einer Hand – der Ku
 **Persönlichkeit:** Gestalterisch, detailverliebt, eigenständig, bodenständig
 **Leitspruch-Stil:** "Denker und Lenker", "leichter Fuß und klare Kante"
 
+**Tonalität nach Seitentyp:**
+- **Leistungsseiten:** Selbstbewusst, überzeugend, kundenzentriert (Problem → Lösung)
+- **Ratgeber-Artikel:** Sachlicher, erklärender Ton. Gleiche Persönlichkeit, aber weniger werblich. Wie ein Experte der einem Kollegen etwas erklärt.
+- **Referenzen/Case Studies:** Storytelling, konkret, ergebnisorientiert
+
 ## Proof Points
 
 **Referenzen:**
@@ -151,10 +144,9 @@ DER HÄUPTLING bietet komplette digitale Infrastruktur aus einer Hand – der Ku
 **Ziel-Keywords / Landing Pages:**
 
 - Barrierefreiheit
-- SEO & GEO
-- UX & UI Design
-- Webdesign (Apps, Shops, Webseiten)
-- Hosting (inkl. SiteJet-Baukasten & WordPress)
+- SEO (inkl. GEO & AEO als Einordnung, nicht als eigenständiges Keyword)
+- Webdesign (inkl. UX/UI als Kompetenz, Websites, Shops, Web-Apps)
+- Hosting (technische Infrastruktur, nicht aktiv für Self-Service beworben)
 
 **Conversion Actions:**
 
@@ -163,45 +155,4 @@ DER HÄUPTLING bietet komplette digitale Infrastruktur aus einer Hand – der Ku
 
 **Aktuelle Baseline:** Rankt gut für "Webdesign Regensburg"
 
-## Conversion-Strategie
-
-**Erkenntnisse aus Wettbewerber-Analyse (LAUDO, webdesign-berlin.de):**
-
-### Seitenstruktur
-
-- Separate SEO-Landing-Pages pro Leistung (wie LAUDO: `/seo-beratung/`, `/ux-ui-design/`, `/webdesign/`)
-- Jede Landing Page mit eigenem Conversion-Pfad
-- Prozess/Ablauf sichtbar machen auf jeder Leistungsseite (Transparenz schafft Vertrauen)
-
-### Vertrauenselemente
-
-- Kundenbewertungen prominent einbinden (z.B. ProvenExpert, Google Reviews)
-- Kundenlogos zeigen wo möglich
-- Transparenzversprechen / Arbeitsweise offenlegen
-- **Testimonials mit Namen + Rolle** (z.B. "Geschäftsführer, Firma X") – deutlich glaubwürdiger als anonyme Bewertungen
-- **Case Studies statt nur Portfolio:** Problem → Lösung → Ergebnis erzählen, nicht nur Screenshots zeigen
-
-### Technisches SEO
-
-- Schema.org Structured Data (`ProfessionalService`) für lokales SEO in Regensburg
-- Jede Leistungsseite mit eigenem Schema-Markup
-
-### Funnel-Stufen
-
-1. **Awareness:** SEO-Landing-Pages ranken für Ziel-Keywords
-2. **Interest:** Leistung + Prozess + Referenzbeispiele zeigen
-3. **Consideration:** Social Proof (Bewertungen, Logos, Referenzen)
-4. **Decision:** CTA je nach Seitentyp (Kontakt/Termin oder Direkt-Buchung)
-
-### Zwei getrennte Funnels
-
-- **Premium-Funnel:** Landing Page → Referenzen → Prozess → Kontaktanfrage/Termin
-- **Bestandskunden-Funnel:** Hosting/Wartung → Paket buchen / Kontakt. Baukasten-Empfehlung nur im persönlichen Gespräch für Budget-Kunden.
-
-## Inspirationsquellen
-
-| Seite               | Was sie gut machen                                                                                                              | Relevant für uns                                     |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| lau.do              | SEO-Landing-Pages pro Leistung, Prozess-Visualisierung, ProvenExpert-Bewertungen, starkes Portfolio                             | Landing-Page-Struktur, Prozess sichtbar machen       |
-| webdesign-berlin.de | Lead-Gen-Fokus, Transparenzversprechen, Video-Einbindung                                                                        | Vertrauenselemente, aktive Lead-Generierung          |
-| bigdropinc.com      | Testimonials mit Name+Titel, Case Studies (Problem→Lösung→Ergebnis), Schema.org Structured Data, AI-Services als Zukunftssignal | Case-Study-Format, Testimonial-Strategie, Schema.org |
+_Conversion-Strategie, Vertrauenselemente, Funnel-Stufen und Inspirationsquellen → siehe `sitemap/sitemap.md`_
