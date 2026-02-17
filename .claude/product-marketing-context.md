@@ -39,7 +39,7 @@ DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im ei
 - Firmen jeder Größe, primär Region Regensburg, auch überregional
 - B2B-Fokus, aber nicht ausschließlich
 - Branchenunabhängig
-- Entscheider variiert: Geschäftsführer, Marketing-Leiter, IT-Verantwortliche
+- **Typischer Entscheider:** KMU-Inhaber / Geschäftsführer, entscheidet allein. Kein Buying Committee – eine Person sucht bei Google, vergleicht 2-3 Anbieter, ruft an. Separate Personas (Marketing-Leiter, IT-Verantwortlicher) lohnen sich nicht, weil die Website nicht mehrere Stakeholder parallel überzeugen muss.
 - Suchen individuelle Lösung mit Anspruch an Design und Technik
 
 ### 2. Hosting-Kunden (Bestandskunden & Empfehlungen)
