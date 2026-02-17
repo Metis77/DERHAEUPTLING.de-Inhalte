@@ -151,12 +151,38 @@ _→ FAQ-Material kann auf den jeweiligen Leistungsseiten als Schema.org FAQPage
 
 **Anti-Persona:** Kunden die nur den billigsten Preis wollen und keinen Wert auf Design/Qualität legen (→ reine Baukasten-Kunden ohne Upsell-Potenzial)
 
-## Switching Dynamics
+## Switching Dynamics (JTBD Four Forces)
 
-**Push:** Veraltete Website, schlechte Rankings, unzufrieden mit aktueller Agentur
-**Pull:** Besseres Design, technische Kompetenz, persönliche Betreuung
-**Habit:** "Die aktuelle Seite funktioniert ja irgendwie", Aufwand eines Relaunchs
-**Anxiety:** Kosten, Zeitaufwand, "wird das wirklich besser?"
+_Hypothetisch – idealerweise durch 5-10 Switch-Interviews validieren (Moesta-Methode: "Erzählen Sie mir von dem Tag, an dem Sie entschieden haben, dass Sie eine neue Website brauchen.")_
+
+### Push (Was treibt Kunden weg vom Status quo?)
+- "Ein Bewerber hat unsere Website gesehen und dachte, wir wären nicht mehr aktiv" → Scham, Imageverlust
+- Wettbewerber hat Relaunch gemacht, sieht jetzt deutlich professioneller aus → Druck
+- Google-Rankings brechen ein, Anfragen gehen zurück → existenzielle Sorge
+- BFSG-Deadline: "Wir müssen barrierefrei werden, unsere Agentur kann das nicht"
+- Alte Agentur reagiert nicht mehr / liefert nicht → Frust, Hilflosigkeit
+- CMS-Update gescheitert, Seite tagelang down → Vertrauensverlust
+
+### Pull (Was zieht Kunden zu uns?)
+- "Ich will eine Website, für die ich mich nicht schämen muss wenn ich den Link verschicke"
+- Alles aus einer Hand: nicht 3 Dienstleister koordinieren müssen
+- Jemand der mitdenkt, nicht nur ausführt → Partnerschaft statt Auftragnehmer
+- Referenzen die zeigen: die können auch anspruchsvolle Projekte (wasserstoffatlas.de)
+- Persönlicher Ansprechpartner der das Projekt kennt
+
+### Habit (Was hält Kunden beim Alten?)
+- "Die Seite funktioniert ja – nicht perfekt, aber sie ist da"
+- Laufender Vertrag mit alter Agentur, kündigen ist unangenehm
+- "Wir haben gerade andere Prioritäten" – Relaunch wird immer weiter geschoben
+- Sunk Cost: "Wir haben erst vor 3 Jahren viel Geld reingesteckt"
+- "Ein Relaunch bedeutet Arbeit für uns – Texte schreiben, Bilder liefern, Feedback geben. Das hat bei uns gerade niemand auf dem Schirm."
+
+### Anxiety (Was schreckt Kunden am Wechsel ab?)
+- "Der letzte Relaunch war ein Desaster – Monate überzogen, Budget gesprengt"
+- "Werden die unsere Branche verstehen?"
+- Kosten unklar: "Was kostet das am Ende wirklich?"
+- SEO-Angst: "Verlieren wir beim Relaunch unsere Rankings?"
+- "Netzwerk statt Agentur – wer ist verantwortlich wenn was schiefgeht?"
 
 ## Customer Language
 

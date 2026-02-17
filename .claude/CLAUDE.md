@@ -17,20 +17,9 @@
 
 ## Core Principles
 
-1. **Simplicity over cleverness** - Write Content that's immediately understandable
-2. **Leverage existing solutions** - Use standard Patterns, don't reinvent
-3. **Early returns** - Guard clauses over nested conditionals
-4. **Match existing patterns or suggest better** - Follow the projects conventions exactly or suggest better pattern
-
-## Kritisches Hinterfragen
-
-**WICHTIG:** Anfragen und Angaben des Nutzers sollen kritisch hinterfragt werden. Wenn eine Idee oder ein Ansatz nicht sinnvoll erscheint:
-
-- Dagegen argumentieren und Bedenken klar äußern
-- Den Vorschlag ablehnen, wenn er problematisch ist
-- Alternative Lösungen aufzeigen und begründen
-
-Ziel: Bessere Ergebnisse durch konstruktiven Widerspruch statt blindes Ausführen.
+1. **Simplicity over cleverness** - Inhalte sofort verständlich schreiben
+2. **Bestehende Muster nutzen** - Etablierte Content-Patterns verwenden, nichts neu erfinden
+3. **Bestehende Konventionen einhalten oder bessere vorschlagen**
 
 ## Projektstruktur
 
@@ -38,22 +27,19 @@ Ziel: Bessere Ergebnisse durch konstruktiven Widerspruch statt blindes Ausführe
 DH Inhalte/
 ├── research/              # Keyword-Recherche, Wettbewerber-Analysen
 ├── sitemap/               # Seitenstruktur & Informationsarchitektur
-├── seiten/                # Inhalte pro Seite
-│   ├── homepage/
-│   ├── webdesign/
-│   ├── seo/
-│   ├── barrierefreiheit/
-│   ├── ux-ui/
-│   ├── baukasten/
-│   ├── referenzen/
-│   ├── ueber-uns/
-│   └── kontakt/
+├── seiten/                # Inhalte pro Seite (Unterordner je Seite, gemäß Sitemap)
 ├── tracking/              # Entscheidungslog, Fortschritt
 └── .claude/
-    └── product-marketing-context.md  # Positionierung, Zielgruppe, Voice etc.
+    └── product-marketing-context.md  # WER/WAS/FÜR WEN
 ```
 
 ## Wichtige Kontextdokumente
 
 - **TODO.md** (Root) – Aufgaben und Fortschritt. Bei Sessionstart lesen, nach erledigten Aufgaben aktualisieren.
-- **Product Marketing Context:** `.claude/product-marketing-context.md` – Positionierung, Zielgruppe, Differenzierung, Brand Voice, Conversion-Strategie. Wird von Marketing-Skills automatisch referenziert.
+- **Product Marketing Context:** `.claude/product-marketing-context.md` – Positionierung, Zielgruppe, Differenzierung, Brand Voice. Erstellt mit Skill `product-marketing-context`.
+- **Sitemap:** `sitemap/sitemap.md` – WIE die Website gebaut ist (Struktur, Seitenkonzepte, Technik, Conversion-Strategie).
+
+## Häufige Fehler – nicht wiederholen
+
+- Kunden nicht dumm dastehen lassen (z.B. Baukasten-Nutzer)
+- Bei Dokumenten die mit einem Skill erstellt wurden: Skill-Namen oben notieren

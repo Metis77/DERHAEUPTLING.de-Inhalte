@@ -16,8 +16,8 @@
 - [ ] Personas ergänzen (GF vs. Marketing-Leiter vs. IT-Verantwortlicher – was will jeder?)
 - [x] Problems & Pain Points: "Was es den Kunden kostet, nicht zu handeln" ergänzen
 - [x] Competitive Landscape: Konkrete Wettbewerber benennen + "fällt kurz weil..."
-- [ ] Objections erweitern (z.B. "Wie lange dauert das?", "Wir haben schon einen IT-Dienstleister")
-- [ ] Switching Dynamics vertiefen
+- [x] Objections erweitern (echte Einwände + FAQ-Material getrennt)
+- [x] Switching Dynamics vertiefen (JTBD Four Forces, hypothetisch – Interviews empfohlen)
 - [ ] Customer Language: "Wie Kunden UNS beschreiben" ergänzen
 - [ ] Proof Points: Metriken und Testimonials ergänzen (wenn vorhanden)
 - [ ] Goals: Aktuelle Metriken erfassen (Traffic, Conversions, Rankings)
@@ -44,4 +44,3 @@
 - [ ] Kontaktseite
 - [ ] Schema.org Markup definieren
 - [ ] Testimonials sammeln (mit Name + Rolle)
-- [ ] Siteway.de manuell analysieren (technisch nicht auslesbar)
