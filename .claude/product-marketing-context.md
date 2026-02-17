@@ -1,6 +1,7 @@
 # Product Marketing Context
 
-_Last updated: 2026-02-16_
+_Erstellt mit Skill: `product-marketing-context`_
+_Last updated: 2026-02-17_
 
 ## Product Overview
 
@@ -128,11 +129,25 @@ _Detailanalysen → `research/`_
 
 ## Objections
 
-| Objection                            | Response                                                                                             |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| "Zu teuer für unsere kleine Website" | Baukasten-Angebot als Alternative, mit Upgrade-Pfad                                                  |
-| "Netzwerk klingt unverbindlich"      | Eingespieltes Team, feste Strukturen, gemeinsames Büro                                               |
-| "Warum nicht einfach WordPress?"     | Können wir auch, setzen aber auf modernere Systeme (Craft CMS, Contao, SvelteKit) wenn es Sinn macht |
+### Echte Kunden-Einwände (kommen tatsächlich in Gesprächen)
+
+| Objection | Response |
+|---|---|
+| "Wie seid ihr organisiert? Wer ist Auftragnehmer und verantwortlich?" | Ansprechpartner wechselt je nach Projektphase – in der Designphase der Designer, in der Entwicklung der Entwickler usw. Vertragspartner ist in der Regel derjenige, über den der Kunde kam oder der die größte Verantwortung im Projekt trägt. Eingespieltes Netzwerk mit klaren Zuständigkeiten |
+| "Das ist uns zu teuer" | Transparente Kalkulation zeigen. Bei kleinem Budget: Hosting-Paket mit SiteJet als Einstieg, mit Upgrade-Pfad zum individuellen Projekt wenn das Business wächst |
+
+### FAQ-Material (gute Fragen, kommen aber nicht proaktiv von Kunden)
+
+- "Warum nicht einfach WordPress?" → Können wir auch, setzen aber auf modernere Systeme (Craft CMS, Contao, SvelteKit) wenn es Sinn macht
+- "Wie lange dauert das?" → Typisch 8-12 Wochen, hängt von Umfang und Zuarbeit ab. Website-Briefing klärt den Rahmen vorher
+- "Können wir die Website selbst pflegen?" → Ja, dafür setzen wir benutzerfreundliche CMS ein. Schulung ist Teil des Projekts
+- "Wir haben schon einen IT-Dienstleister" → Kein Entweder-oder. Wir machen Web & Design, euer IT-Dienstleister macht Infrastruktur
+- "SEO bringt doch eh nichts mehr mit KI" → Im Gegenteil – KI-Suchen brauchen strukturierte Inhalte. Wer kein SEO macht, ist auch in KI-Antworten unsichtbar
+- "Wir machen schon Google Ads, reicht das nicht?" → Ads sind Miete, SEO ist Eigentum. Ads stoppen = Traffic stoppt
+- "Wir hatten schon mal einen Relaunch, das war ein Desaster" → Deshalb: klarer Prozess, Website-Briefing vorab, regelmäßige Abstimmung
+- "Warum teurer als Fiverr/Offshore?" → Lokaler Ansprechpartner, deutsche Rechtslage (DSGVO, BFSG), langfristige Wartbarkeit
+
+_→ FAQ-Material kann auf den jeweiligen Leistungsseiten als Schema.org FAQPage eingesetzt werden_
 
 **Anti-Persona:** Kunden die nur den billigsten Preis wollen und keinen Wert auf Design/Qualität legen (→ reine Baukasten-Kunden ohne Upsell-Potenzial)
 
