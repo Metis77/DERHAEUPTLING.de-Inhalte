@@ -19,7 +19,7 @@
 - [x] Objections erweitern (echte Einwände + FAQ-Material getrennt)
 - [x] Switching Dynamics vertiefen (JTBD Four Forces, hypothetisch – Interviews empfohlen)
 - [x] Customer Language: "Wie Kunden UNS beschreiben" ergänzen
-- [ ] Proof Points: Metriken und Testimonials ergänzen (wenn vorhanden)
+- [x] Proof Points: Testimonials erfasst (→ Customer Language). Metriken fehlen → TODO Kunden befragen (Vorher/Nachher: Rankings, Traffic, Ladezeiten, Anfragen)
 - [ ] Goals: Aktuelle Metriken erfassen (Traffic, Conversions, Rankings)
 
 ## Aktuell: Inhalt erstellen

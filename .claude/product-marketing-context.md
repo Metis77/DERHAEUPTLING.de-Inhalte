@@ -249,6 +249,8 @@ _Quellen: derhaeuptling.de/#Kunden (7 Testimonials), Google Maps (15 Rezensionen
 - BMW (namhafter Kunde)
 - 18 Portfolio-Projekte auf derhaeuptling.de
 
+**Metriken / messbare Ergebnisse:** Noch nicht vorhanden. TODO: Bestandskunden befragen – z.B. Vorher/Nachher-Vergleiche zu Rankings, Traffic, Ladezeiten, Anfragen-Volumen. Solche Zahlen sind das stärkste Verkaufsargument auf Leistungsseiten und in Case Studies.
+
 **Tech-Stack:** Contao CMS, Craft CMS, Shopify, Webflow, SvelteKit, SiteJet
 
 ## Goals
