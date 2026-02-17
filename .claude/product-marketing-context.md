@@ -10,9 +10,9 @@ _Last updated: 2026-02-17_
 **Was wir machen:**
 DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im eingespielten Netzwerk aus Konzeptern, Designern und Webentwicklern. Das Angebot umfasst individuelle Premium-Projekte (Design, Entwicklung, SEO, Barrierefreiheit), komplette Hosting-Infrastruktur (Server, Domains, E-Mail, CDN, DevOps) und laufende Betreuung (Wartung & Support mit Stundenkontingenten). Für Budget-Kunden gibt es im Hosting inkludierte Self-Service-Tools (SiteJet-Baukasten, WordPress), die aber nicht aktiv auf der Website beworben werden.
 
-**Produktkategorie:** Webdesign-Agentur / Digitalagentur
+**Produktkategorie:** Webentwickler mit Netzwerk (explizit KEINE Agentur – Entwickler mit exzellenten Partnern im Büro)
 
-**Produkttyp:** Dienstleistung + Hosting (mit Self-Service-Tools)
+**Produkttyp:** Dienstleistung (Hosting ist implizit Teil der Projekte, kein eigenständiges Produkt)
 
 **Business Model:**
 
@@ -77,21 +77,21 @@ DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im ei
 
 ### Direkte Wettbewerber (Google-Geschäft – kämpfen um gleiche Keywords und Kunden)
 
-| Wettbewerber | Typ | Fällt kurz weil... |
-|---|---|---|
+| Wettbewerber       | Typ                    | Fällt kurz weil...                                                                                         |
+| ------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------------- |
 | **Ucentric Media** | 2-Mann-GbR, Regensburg | Affiliate-SEO ≠ Business-SEO. 2 Leute behaupten 8 CMS zu beherrschen (Landingpage-Spam). Nur Kleinstkunden |
-| **WEDEON** | GmbH, Multi-Standort | 8 "Standorte" bei <15 Leuten (virtuelle Büros). Kein Portfolio sichtbar, reiner WordPress-Stack |
-| **Herold Medien** | Agentur, Regensburg | Bauchladen (SEO+SEA+Social+TYPO3+Baukästen). Verkauft gleichzeitig Baukästen und "individuelle Lösungen" |
-| **Lucidstyle** | Freelancer, Regensburg | Theme von 2016, kein Analytics auf eigener Seite, null Case Studies, kein Conversion-Konzept |
+| **WEDEON**         | GmbH, Multi-Standort   | 8 "Standorte" bei <15 Leuten (virtuelle Büros). Kein Portfolio sichtbar, reiner WordPress-Stack            |
+| **Herold Medien**  | Agentur, Regensburg    | Bauchladen (SEO+SEA+Social+TYPO3+Baukästen). Verkauft gleichzeitig Baukästen und "individuelle Lösungen"   |
+| **Lucidstyle**     | Freelancer, Regensburg | Theme von 2016, kein Analytics auf eigener Seite, null Case Studies, kein Conversion-Konzept               |
 
 ### Indirekte Wettbewerber (Pitch-Geschäft – andere Akquise, aber gleiche Keywords)
 
-| Wettbewerber | Typ | Fällt kurz weil... |
-|---|---|---|
-| **Seitenwind** | GmbH, ~20 MA | 1 Entwickler bei 20 Leuten = Designagentur. Barrierefreiheit per Overlay-Widget. Keine messbaren Ergebnisse |
-| **Janda+Roscher** | GmbH & Co. KG, ~20 MA | Bauchladen ("Diplomatie. Kreation. Digitales."). SEO extern zugekauft. TYPO3-Monokultur. Keine KPIs in Case Studies |
-| **creativconcept** | GmbH, 11 MA | 15 Leistungen mit 11 Leuten. 5 offene Stellen. WordPress/TYPO3-Standard. Keine Barrierefreiheit |
-| **Conceptnet** | GmbH, ~25 MA | Ransomware-Angriff 01/2026 – Server verloren. TYPO3-Monokultur. Bauchladen |
+| Wettbewerber       | Typ                   | Fällt kurz weil...                                                                                                  |
+| ------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Seitenwind**     | GmbH, ~20 MA          | 1 Entwickler bei 20 Leuten = Designagentur. Barrierefreiheit per Overlay-Widget. Keine messbaren Ergebnisse         |
+| **Janda+Roscher**  | GmbH & Co. KG, ~20 MA | Bauchladen ("Diplomatie. Kreation. Digitales."). SEO extern zugekauft. TYPO3-Monokultur. Keine KPIs in Case Studies |
+| **creativconcept** | GmbH, 11 MA           | 15 Leistungen mit 11 Leuten. 5 offene Stellen. WordPress/TYPO3-Standard. Keine Barrierefreiheit                     |
+| **Conceptnet**     | GmbH, ~25 MA          | Ransomware-Angriff 01/2026 – Server verloren. TYPO3-Monokultur. Bauchladen                                          |
 
 ### Nicht relevant / anderes Segment
 
@@ -131,10 +131,10 @@ _Detailanalysen → `research/`_
 
 ### Echte Kunden-Einwände (kommen tatsächlich in Gesprächen)
 
-| Objection | Response |
-|---|---|
+| Objection                                                             | Response                                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | "Wie seid ihr organisiert? Wer ist Auftragnehmer und verantwortlich?" | Ansprechpartner wechselt je nach Projektphase – in der Designphase der Designer, in der Entwicklung der Entwickler usw. Vertragspartner ist in der Regel derjenige, über den der Kunde kam oder der die größte Verantwortung im Projekt trägt. Eingespieltes Netzwerk mit klaren Zuständigkeiten |
-| "Das ist uns zu teuer" | Transparente Kalkulation zeigen. Bei kleinem Budget: Hosting-Paket mit SiteJet als Einstieg, mit Upgrade-Pfad zum individuellen Projekt wenn das Business wächst |
+| "Das ist uns zu teuer"                                                | Transparente Kalkulation zeigen. Bei kleinem Budget: Hosting-Paket mit SiteJet als Einstieg, mit Upgrade-Pfad zum individuellen Projekt wenn das Business wächst                                                                                                                                 |
 
 ### FAQ-Material (gute Fragen, kommen aber nicht proaktiv von Kunden)
 
@@ -156,6 +156,7 @@ _→ FAQ-Material kann auf den jeweiligen Leistungsseiten als Schema.org FAQPage
 _Hypothetisch – idealerweise durch 5-10 Switch-Interviews validieren (Moesta-Methode: "Erzählen Sie mir von dem Tag, an dem Sie entschieden haben, dass Sie eine neue Website brauchen.")_
 
 ### Push (Was treibt Kunden weg vom Status quo?)
+
 - "Ein Bewerber hat unsere Website gesehen und dachte, wir wären nicht mehr aktiv" → Scham, Imageverlust
 - Wettbewerber hat Relaunch gemacht, sieht jetzt deutlich professioneller aus → Druck
 - Google-Rankings brechen ein, Anfragen gehen zurück → existenzielle Sorge
@@ -164,6 +165,7 @@ _Hypothetisch – idealerweise durch 5-10 Switch-Interviews validieren (Moesta-M
 - CMS-Update gescheitert, Seite tagelang down → Vertrauensverlust
 
 ### Pull (Was zieht Kunden zu uns?)
+
 - "Ich will eine Website, für die ich mich nicht schämen muss wenn ich den Link verschicke"
 - Alles aus einer Hand: nicht 3 Dienstleister koordinieren müssen
 - Jemand der mitdenkt, nicht nur ausführt → Partnerschaft statt Auftragnehmer
@@ -171,6 +173,7 @@ _Hypothetisch – idealerweise durch 5-10 Switch-Interviews validieren (Moesta-M
 - Persönlicher Ansprechpartner der das Projekt kennt
 
 ### Habit (Was hält Kunden beim Alten?)
+
 - "Die Seite funktioniert ja – nicht perfekt, aber sie ist da"
 - Laufender Vertrag mit alter Agentur, kündigen ist unangenehm
 - "Wir haben gerade andere Prioritäten" – Relaunch wird immer weiter geschoben
@@ -178,6 +181,7 @@ _Hypothetisch – idealerweise durch 5-10 Switch-Interviews validieren (Moesta-M
 - "Ein Relaunch bedeutet Arbeit für uns – Texte schreiben, Bilder liefern, Feedback geben. Das hat bei uns gerade niemand auf dem Schirm."
 
 ### Anxiety (Was schreckt Kunden am Wechsel ab?)
+
 - "Der letzte Relaunch war ein Desaster – Monate überzogen, Budget gesprengt"
 - "Werden die unsere Branche verstehen?"
 - Kosten unklar: "Was kostet das am Ende wirklich?"
@@ -194,18 +198,18 @@ _Hypothetisch – idealerweise durch 5-10 Switch-Interviews validieren (Moesta-M
 - "Wir brauchen eine neue Website"
 - "Können Sie auch Shops / Apps?"
 
-**Wie Kunden UNS beschreiben (verbatim aus Testimonials):**
+**Wie Kunden UNS beschreiben (wörtlich aus Testimonials):**
 
 _Dominante Muster – diese Begriffe fallen immer wieder:_
 
-| Eigenschaft | Häufigkeit | Beispiel-Zitate |
-|---|---|---|
-| **Professionell** | 10+ Erwähnungen | "absolut professionell" (Kulawik), "hochprofessionell" (Frommer), "super professionell" (Häberlein) |
-| **Zuverlässig** | 8+ Erwähnungen | "extrem zuverlässig" (Frommer), "Fertigstellungstermine werden immer eingehalten" (Stoiber) |
-| **Kompetent / Fachmann** | 7+ Erwähnungen | "absoluter Fachmann, der sein Handwerk versteht" (Stoiber), "fachkompetente Beratung" (Gebhardt) |
-| **Kreativ** | 4 Erwähnungen | "kreativ" (Reuter, Kessler, Häberlein) |
-| **Lösungsorientiert** | 4 Erwähnungen | "findet extrem schnell für jeden Sonderwunsch eine Lösung" (Ainedter), "löst Probleme und schafft keine neuen" (Anne S.) |
-| **Schnell** | 3 Erwähnungen | "schnelle Kommunikation" (Kulawik), "schneller Service" (Artmann) |
+| Eigenschaft              | Häufigkeit      | Beispiel-Zitate                                                                                                          |
+| ------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Professionell**        | 10+ Erwähnungen | "absolut professionell" (Kulawik), "hochprofessionell" (Frommer), "super professionell" (Häberlein)                      |
+| **Zuverlässig**          | 8+ Erwähnungen  | "extrem zuverlässig" (Frommer), "Fertigstellungstermine werden immer eingehalten" (Stoiber)                              |
+| **Kompetent / Fachmann** | 7+ Erwähnungen  | "absoluter Fachmann, der sein Handwerk versteht" (Stoiber), "fachkompetente Beratung" (Gebhardt)                         |
+| **Kreativ**              | 4 Erwähnungen   | "kreativ" (Reuter, Kessler, Häberlein)                                                                                   |
+| **Lösungsorientiert**    | 4 Erwähnungen   | "findet extrem schnell für jeden Sonderwunsch eine Lösung" (Ainedter), "löst Probleme und schafft keine neuen" (Anne S.) |
+| **Schnell**              | 3 Erwähnungen   | "schnelle Kommunikation" (Kulawik), "schneller Service" (Artmann)                                                        |
 
 _Besondere Formulierungen (wörtlich):_
 
@@ -249,25 +253,17 @@ _Quellen: derhaeuptling.de/#Kunden (7 Testimonials), Google Maps (15 Rezensionen
 - BMW (namhafter Kunde)
 - 18 Portfolio-Projekte auf derhaeuptling.de
 
-**Metriken / messbare Ergebnisse:** Noch nicht vorhanden. TODO: Bestandskunden befragen – z.B. Vorher/Nachher-Vergleiche zu Rankings, Traffic, Ladezeiten, Anfragen-Volumen. Solche Zahlen sind das stärkste Verkaufsargument auf Leistungsseiten und in Case Studies.
+**Messbare Ergebnisse:**
+Noch nicht erfasst. TODO: Bestandskunden befragen – nach konkreten Verbesserungen, z.B. "Wir bekommen jetzt mehr Anfragen über die Website", Ranking-Veränderungen, Ladezeit-Verbesserungen, oder auch qualitative Aussagen wie "Bewerber sagen, unsere Website hat sie überzeugt". Muss keine harte Metrik sein – eine glaubwürdige Vorher/Nachher-Geschichte reicht.
 
 **Tech-Stack:** Contao CMS, Craft CMS, Shopify, Webflow, SvelteKit, SiteJet
 
 ## Goals
 
-**Primäres Ziel:** Ranking-Expansion – über "Webdesign Regensburg" hinaus für weitere Keywords sichtbar werden
+**Primäres Ziel:**
+Ranking-Expansion – über "Webdesign Regensburg" hinaus für weitere Keywords sichtbar werden
 
-**Ziel-Keywords / Landing Pages:**
-
-- Barrierefreiheit
-- SEO (inkl. GEO & AEO als Einordnung, nicht als eigenständiges Keyword)
-- Webdesign (inkl. UX/UI als Kompetenz, Websites, Shops, Web-Apps)
-- Hosting (technische Infrastruktur, nicht aktiv für Self-Service beworben)
-
-**Conversion Actions:**
-
-- Premium-Seiten: Kontaktformular / Terminanfrage
-- Hosting-Seite: Kontakt (technische Infrastruktur, kein Self-Service-Checkout)
+**Seitenstruktur, Keywords & Conversion Actions** → siehe `sitemap/sitemap.md`
 
 **Aktuelle Baseline:**
 
