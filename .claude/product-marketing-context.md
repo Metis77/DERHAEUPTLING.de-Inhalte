@@ -194,8 +194,38 @@ _Hypothetisch – idealerweise durch 5-10 Switch-Interviews validieren (Moesta-M
 - "Wir brauchen eine neue Website"
 - "Können Sie auch Shops / Apps?"
 
-**Words to use:** Webdesign, Website, Relaunch, SEO, Barrierefreiheit, Regensburg, individuell, maßgeschneidert
-**Words to avoid:** Übertriebene Buzzwords ("disruptiv", "revolutionär"), zu technischer Jargon für Nicht-Techniker
+**Wie Kunden UNS beschreiben (verbatim aus Testimonials):**
+
+_Dominante Muster – diese Begriffe fallen immer wieder:_
+
+| Eigenschaft | Häufigkeit | Beispiel-Zitate |
+|---|---|---|
+| **Professionell** | 10+ Erwähnungen | "absolut professionell" (Kulawik), "hochprofessionell" (Frommer), "super professionell" (Häberlein) |
+| **Zuverlässig** | 8+ Erwähnungen | "extrem zuverlässig" (Frommer), "Fertigstellungstermine werden immer eingehalten" (Stoiber) |
+| **Kompetent / Fachmann** | 7+ Erwähnungen | "absoluter Fachmann, der sein Handwerk versteht" (Stoiber), "fachkompetente Beratung" (Gebhardt) |
+| **Kreativ** | 4 Erwähnungen | "kreativ" (Reuter, Kessler, Häberlein) |
+| **Lösungsorientiert** | 4 Erwähnungen | "findet extrem schnell für jeden Sonderwunsch eine Lösung" (Ainedter), "löst Probleme und schafft keine neuen" (Anne S.) |
+| **Schnell** | 3 Erwähnungen | "schnelle Kommunikation" (Kulawik), "schneller Service" (Artmann) |
+
+_Besondere Formulierungen (wörtlich):_
+
+- "Endlich jemand, der nicht nur schöne Webseiten baut, sondern auch die Technik dahinter versteht" (Wexler)
+- "Mehr als nur eine neue Homepage!" (Kulawik)
+- "Er zuhört, löst Probleme und schafft keine neuen" (Anne S.)
+- "Du sagst Martin was du brauchst und er macht es möglich!" (Hose)
+- "Hier gibts kein Chaos, sondern ruhige, fokussierte Klarheit!" (Traidl)
+- "der ruhende Pol" (Hecht)
+- "unkompliziert und effektiv" (Fuchs)
+- "hat uns auf ein neues Level gehoben" (Wexler)
+
+_Auffällig: Kunden beschreiben fast immer Martin persönlich, nicht "die Firma". Die Beziehung ist personengebunden._
+
+**Google Maps:** 5,0 Sterne, 30 Rezensionen (100% 5 Sterne)
+
+_Quellen: derhaeuptling.de/#Kunden (7 Testimonials), Google Maps (15 Rezensionen mit Text, 15 nur Sterne)_
+
+**Words to use:** professionell, zuverlässig, kompetent, kreativ, lösungsorientiert, unkompliziert, Webdesign, Website, Relaunch, SEO, Barrierefreiheit, Regensburg, individuell
+**Words to avoid:** Übertriebene Buzzwords ("disruptiv", "revolutionär"), zu technischer Jargon für Nicht-Techniker, "günstig" (→ "fair" oder "transparent" stattdessen)
 
 ## Brand Voice
 

@@ -18,7 +18,7 @@
 - [x] Competitive Landscape: Konkrete Wettbewerber benennen + "fällt kurz weil..."
 - [x] Objections erweitern (echte Einwände + FAQ-Material getrennt)
 - [x] Switching Dynamics vertiefen (JTBD Four Forces, hypothetisch – Interviews empfohlen)
-- [ ] Customer Language: "Wie Kunden UNS beschreiben" ergänzen
+- [x] Customer Language: "Wie Kunden UNS beschreiben" ergänzen
 - [ ] Proof Points: Metriken und Testimonials ergänzen (wenn vorhanden)
 - [ ] Goals: Aktuelle Metriken erfassen (Traffic, Conversions, Rankings)
 
