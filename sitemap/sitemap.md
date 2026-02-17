@@ -12,7 +12,7 @@
   Kontakt
 ```
 
-Immer Burger-Menü, auch Desktop. Leistungen direkt als Menüpunkte, kein "Leistungen"-Dropdown. Hosting und Wartung als sekundäre Links (Footer, Querverweise von Leistungsseiten).
+Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in einer Zeile sauber positionieren – Burger hält die Seite clean und lenkt den Fokus auf den Content. Leistungen direkt als Menüpunkte, kein "Leistungen"-Dropdown. Hosting und Wartung als sekundäre Links (Footer, Querverweise von Leistungsseiten).
 
 ## Seitenstruktur
 
@@ -40,10 +40,7 @@ Immer Burger-Menü, auch Desktop. Leistungen direkt als Menüpunkte, kein "Leist
 │   │   ├── /ratgeber/barrierefreiheit/wcag-checkliste
 │   │   └── /ratgeber/barrierefreiheit/aria-grundlagen
 │   │
-│   ├── /ratgeber/dsgvo            DSGVO-Hub
-│   │   ├── /ratgeber/dsgvo/cookie-consent
-│   │   ├── /ratgeber/dsgvo/datenschutzerklaerung
-│   │   └── /ratgeber/dsgvo/auftragsverarbeitung
+│   ├── /ratgeber/datenschutz          Datenschutz (praxisnah)
 │   │
 │   ├── /ratgeber/technologie      Technologie-Hub
 │   │   ├── /ratgeber/technologie/sitejet-baukasten
@@ -79,6 +76,7 @@ Immer Burger-Menü, auch Desktop. Leistungen direkt als Menüpunkte, kein "Leist
 ## Querverlinkung (Prinzip)
 
 Ratgeber und Leistungsseiten verlinken immer in beide Richtungen:
+
 - **Leistungsseite → Ratgeber:** "Mehr dazu in unserem Ratgeber: [Thema]" (für Kunden die tiefer einsteigen wollen)
 - **Ratgeber → Leistungsseite:** "Wir helfen Ihnen dabei – [Leistung ansehen]" (für Kunden die Hilfe brauchen)
 
@@ -95,9 +93,18 @@ Ratgeber und Leistungsseiten verlinken immer in beide Richtungen:
 8. CTA          → Kontakt/Termin-Section
 ```
 
+## Homepage – Seitenkonzept
+
+TODO: Konzept erstellen. Die Homepage ist die meistbesuchte Seite und der erste Eindruck – braucht ein eigenes Konzept (Hero, Leistungsübersicht, Social Proof, CTA-Strategie).
+
+## Referenzen – Seitenkonzept
+
+TODO: Konzept erstellen. Aufbau für `/referenzen` (Übersichtsseite) und `/referenzen/[slug]` (einzelne Case Study). Angelehnt an: Problem → Lösung → Ergebnis. Template analog zum Seitenaufbau für Leistungsseiten definieren.
+
 ## Webdesign – Seitenkonzept
 
 Eine starke Seite `/webdesign` statt Unterseiten. Enthält Sections für:
+
 - Websites (Relaunch, Neuentwicklung)
 - Online-Shops (Shopify, individuelle Lösungen)
 - Web-Apps (SvelteKit, React)
@@ -108,11 +115,13 @@ Unterseiten (`/webdesign/shops`, `/webdesign/web-apps`) nur nachrüsten wenn Key
 ## Wartung & Support – Seitenkonzept
 
 Eigenständige Leistungsseite unter `/wartung-support`. Kein Haupt-Navpunkt, aber prominent verlinkt aus:
+
 - Footer-Navigation
 - Jeder Leistungsseite ("Nach dem Launch: Wartung & Support")
 - Referenzen/Case Studies
 
 Inhalte (basierend auf bestehendem PDF-Angebot):
+
 - Monitoring, Sicherheitsupdates, Weiterentwicklung, Support, grafische Arbeiten
 - 4 Pakete: Basic (8h) / Medium (16h) / Large (32h) / Advanced (64h)
 - Preisstaffelung nach Kontingent (105-120€/h)
@@ -125,6 +134,7 @@ Eigenständige Seite `/hosting` mit Fokus auf **technische Kompetenz**, nicht au
 **Positionierung:** "Wir kümmern uns um die komplette Infrastruktur" – ein Signal an Premium-Kunden, dass die technische Basis stimmt.
 
 **Sichtbar (Nutzen):**
+
 - Domains & E-Mail – alles eingerichtet (Exchange, Business-Postfächer)
 - Hosting & Performance – schnell, mit CDN und Monitoring
 - DevOps – automatische Deployments, kein FTP
@@ -132,6 +142,7 @@ Eigenständige Seite `/hosting` mit Fokus auf **technische Kompetenz**, nicht au
 - Tracking – datenschutzkonform mit Matomo
 
 **Für Techniker (Detail, z.B. aufklappbar):**
+
 - Webhosting auf eigenen Servern mit Plesk-Verwaltung
 - Domains über externen Domain-Reseller
 - E-Mail: Microsoft Exchange und Business-Postfächer
@@ -155,6 +166,7 @@ Im Ratgeber: `/ratgeber/seo/geo-aeo-einordnung` als ausführlicher Artikel der d
 ## Ratgeber – Konzept
 
 Öffentliches Wissenssystem mit drei Zwecken:
+
 1. **Nachschlagewerk** für eigene Best Practices (internes Wiki)
 2. **Transparenz** für Kunden ("so denken und arbeiten wir")
 3. **SEO-Nebeneffekt** (rankt mit, ist aber nicht Hauptzweck)
@@ -164,24 +176,35 @@ Hub-Struktur statt Mega-Guides. Jeder Artikel 800-2.000 Wörter, fokussiert auf 
 ## Entscheidungen
 
 ### Webdesign-Unterseiten → Nein, vorerst
+
 Alles auf einer Seite mit Sections. Websites, Shops, Web-Apps und UX/UI als Bereiche, nicht als Unterseiten. Nachrüsten wenn Keyword-Recherche eigenständiges Suchvolumen zeigt.
 
 ### UX/UI-Design als eigene Leistungsseite → Nein
+
 Kompetenz innerhalb von Webdesign, keine eigenständige Dienstleistung die Kunden separat beauftragen. Auf `/webdesign` als Section integriert.
 
 ### SEO-Unterseiten als Leistung → Nein
+
 Eigene Ratgeber-Artikel decken Unterthemen ab. Die Leistungsseite `/seo` bleibt eine Seite.
 
 ### Hosting: Baukasten aktiv bewerben → Nein
+
 SiteJet und WordPress werden nicht auf der Website beworben. Empfehlung im persönlichen Gespräch für Budget-Kunden. Ratgeber-Artikel als Self-Service-Anleitung.
 
 ### Städte-Landing-Pages → Nein
+
 Regensburg-Fokus über Schema.org (`ProfessionalService`) und natürliche Erwähnung im Content.
 
 ### CMS/Technologie als Leistungsseiten → Nein
+
 Keine `/craft-cms-agentur`-Seiten. Stattdessen ausführliche Ratgeber-Artikel zu Contao, Craft CMS etc. Die verlinken auf `/webdesign` als Leistung.
 
+### DSGVO als eigener Hub mit 3 Artikeln → Nein
+
+Stattdessen ein praxisnaher Datenschutz-Artikel der zeigt, wie Website-Datenschutz pragmatisch umgesetzt wird (Consent, Datenschutzerklärung, AV-Verträge). Positionierung: Gegen unnötige und falsch konfigurierte Consent-Manager-Automatismen – für pragmatischen, korrekten Datenschutz. Keyword-Relevanz in der Recherche prüfen.
+
 ### SEA als Leistung → Nein, vorerst
+
 Wird aktuell nicht aktiv angeboten. Kann als Ratgeber-Artikel (`/ratgeber/seo/sea-grundlagen`) vorbereitet werden. Leistungsseite nachrüsten wenn SEA ins Portfolio aufgenommen wird.
 
 ## Conversion-Strategie

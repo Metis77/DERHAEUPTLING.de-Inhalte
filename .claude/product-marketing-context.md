@@ -5,7 +5,7 @@ _Last updated: 2026-02-17_
 
 ## Product Overview
 
-**One-liner:** Webdesign, Webentwicklung und digitale Lösungen aus Regensburg – von der Idee bis zum Launch und darüber hinaus.
+**One-liner:** Websites, Shops und Web-Apps aus Regensburg – entwickelt von einem eingespielten Team aus spezialisierten Selbstständigen, bei dem dein Ansprechpartner auch der Umsetzer ist.
 
 **Was wir machen:**
 DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im eingespielten Netzwerk aus Konzeptern, Designern und Webentwicklern. Das Angebot umfasst individuelle Premium-Projekte (Design, Entwicklung, SEO, Barrierefreiheit), komplette Hosting-Infrastruktur (Server, Domains, E-Mail, CDN, DevOps) und laufende Betreuung (Wartung & Support mit Stundenkontingenten). Für Budget-Kunden gibt es im Hosting inkludierte Self-Service-Tools (SiteJet-Baukasten, WordPress), die aber nicht aktiv auf der Website beworben werden.
@@ -119,7 +119,7 @@ _Detailanalysen → `research/`_
 - **Interaction Design mit Liebe zum Detail:** Fokus auf dezentes, hochwertiges Interaktionsdesign (Beispiel: gasthaushummel.de)
 - **Technische Tiefe:** Fähigkeit zu anspruchsvollen Web-Apps (Beispiel: wasserstoffatlas.de), nicht nur "noch eine WordPress-Seite"
 - **Full-Stack-Angebot:** Von Branding über Design bis Entwicklung, SEO und laufende Betreuung aus einer Hand
-- **KI-gestützte Arbeitsweise:** Starke Adaption von KI in Workflows und Entwicklung → schnellere Umsetzung, Preisvorteile für Kunden. Gleichzeitig bleibt die persönliche, menschliche Komponente in Beratung und Betreuung essentiell. KI als Werkzeug, nicht als Ersatz.
+- **Ansprechpartner = Umsetzer:** Dein Kontakt ist nicht der Projektmanager, sondern der Mensch der dein Projekt tatsächlich baut – der Designer in der Designphase, der Entwickler in der Umsetzung. Kein Stille-Post über drei Hierarchieebenen.
 
 **Warum Kunden uns wählen:**
 
@@ -233,10 +233,13 @@ _Quellen: derhaeuptling.de/#Kunden (7 Testimonials), Google Maps (15 Rezensionen
 
 ## Brand Voice
 
-**Ton:** Selbstbewusst, kreativ, leicht poetisch
+**Ton:** Selbstbewusst, kreativ, gestalterisch formuliert
 **Stil:** Locker aber professionell, nicht flapsig, nicht corporate
 **Persönlichkeit:** Gestalterisch, detailverliebt, eigenständig, bodenständig
 **Leitspruch-Stil:** "Denker und Lenker", "leichter Fuß und klare Kante"
+
+**Manifest (Referenz für Über-uns / Hero-Texte):**
+_„Wir sind Gestalter und Entwickler. Mit leichtem Fuß und klarer Kante in Gespräch und Design. Wir glauben an die Kraft einer guten Idee und die Liebe zum Detail. Wir gehen auch Umwege, wenn die Aussicht lohnt. Wir sind Denker und Lenker."_
 
 **Tonalität nach Seitentyp:**
 
@@ -254,7 +257,17 @@ _Quellen: derhaeuptling.de/#Kunden (7 Testimonials), Google Maps (15 Rezensionen
 - 18 Portfolio-Projekte auf derhaeuptling.de
 
 **Messbare Ergebnisse:**
-Noch nicht erfasst. TODO: Bestandskunden befragen – nach konkreten Verbesserungen, z.B. "Wir bekommen jetzt mehr Anfragen über die Website", Ranking-Veränderungen, Ladezeit-Verbesserungen, oder auch qualitative Aussagen wie "Bewerber sagen, unsere Website hat sie überzeugt". Muss keine harte Metrik sein – eine glaubwürdige Vorher/Nachher-Geschichte reicht.
+Noch nicht erfasst.
+TODO: Bestandskunden befragen – Beispiele für verwertbare Aussagen:
+
+- „Wir bekommen jetzt mehr Anfragen über die Website"
+- Ranking-Veränderungen (vorher Seite 3, jetzt Seite 1)
+- Ladezeit-Verbesserungen (vorher 5s, jetzt unter 1s)
+- „Bewerber sagen, unsere Website hat sie überzeugt"
+- „Seit dem Relaunch bekommen wir regelmäßig Bewerbungen über die Website"
+- Conversion-Verbesserungen (mehr Kontaktanfragen, mehr Terminbuchungen)
+
+Muss keine harte Metrik sein – eine glaubwürdige Vorher/Nachher-Geschichte reicht.
 
 **Tech-Stack:** Contao CMS, Craft CMS, Shopify, Webflow, SvelteKit, SiteJet
 
