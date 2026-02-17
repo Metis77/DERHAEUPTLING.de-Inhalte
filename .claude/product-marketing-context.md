@@ -280,7 +280,7 @@ Ranking-Expansion – über "Webdesign Regensburg" hinaus für weitere Keywords 
 
 - Webdesign (inkl. UX/UI als Kompetenz, Websites, Shops, Web-Apps)
 - SEO (inkl. GEO & AEO als Einordnung, nicht als eigenständiges Keyword)
-- "In guten Händen" – Trust-/Conversion-Seite (Barrierefreiheit, Datenschutz, Rechtssicherheit, Wartung, Hosting, Monitoring). Keine Keyword-Seite, sondern Sicherheitsversprechen. Keyword-Abdeckung für Barrierefreiheit, Hosting etc. über Ratgeber-Artikel.
+- "Rundum sicher" – Trust-/Conversion-Seite (Barrierefreiheit, Datenschutz, Rechtssicherheit, Wartung, Hosting, Monitoring). Keine Keyword-Seite, sondern Sicherheitsversprechen. Keyword-Abdeckung für Barrierefreiheit, Hosting etc. über Ratgeber-Artikel.
 
 **Aktuelle Baseline:**
 

@@ -6,7 +6,7 @@
 ☰ Burger-Menü (immer):
   Webdesign
   SEO
-  Rundum sicher          → /in-guten-haenden
+  Rundum sicher
   Referenzen
   Über uns
   Kontakt
@@ -23,7 +23,7 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 │
 ├── /seo                       SEO (inkl. GEO & AEO)          🔵 Premium
 │
-├── /in-guten-haenden          In guten Händen                 🔵 Premium
+├── /rundum-sicher            Rundum sicher                   🔵 Premium
 │
 ├── /ratgeber                  Ratgeber (Hub)                  📚 Wiki
 │   ├── /ratgeber/seo              SEO-Hub
@@ -109,14 +109,15 @@ Eine starke Seite `/webdesign` statt Unterseiten. Enthält Sections für:
 
 Unterseiten (`/webdesign/shops`, `/webdesign/web-apps`) nur nachrüsten wenn Keyword-Recherche relevantes eigenständiges Suchvolumen zeigt.
 
-## In guten Händen – Seitenkonzept
+## Rundum sicher – Seitenkonzept
 
-Konsolidierte Seite `/in-guten-haenden` – ersetzt die bisherigen Einzelseiten `/barrierefreiheit`, `/wartung-support` und `/hosting`. Haupt-Navpunkt (ersetzt Barrierefreiheit im Menü).
+Konsolidierte Seite `/rundum-sicher`. Bündelt Barrierefreiheit, Datenschutz, Rechtssicherheit, Wartung, Hosting und Monitoring auf einer Seite. Haupt-Navpunkt.
 
 **Positionierung:** Sicherheitsversprechen für Neukunden (Pre-Sales). Adressiert das Bedürfnis: "Ich will sicher sein, dass an alles gedacht wurde – bei der Erstellung und danach." Keine Keyword-Seite, sondern Trust-/Conversion-Seite.
 
 **Seitenaufbau:**
-1. Hero → "In guten Händen" + Subline + CTA
+
+1. Hero → "Rundum sicher" + Subline + CTA
    Subline-Richtung: "Von der ersten Zeile Code bis zum laufenden Betrieb – wir denken an alles."
 2. Problem → Was passiert wenn niemand mitdenkt?
    (Rechtsmängel, Datenschutzlücken, Ausfälle, veraltete Software, unzugängliche Seiten)
@@ -124,20 +125,21 @@ Konsolidierte Seite `/in-guten-haenden` – ersetzt die bisherigen Einzelseiten 
    - Barrierefreiheit (BFSG, WCAG – kein Overlay)
    - Datenschutz & Integrationen (Privacy-by-Design: Tools wählen die keinen Consent brauchen. Consent Manager richtig einrichten wenn doch nötig.)
    - Rechtssicherheit (Impressum, DSGVO-Konformität)
-   Jeweils aufklappbar → technische Details
+     Jeweils aufklappbar → technische Details
 4. Nach dem Launch → Was wir dauerhaft im Blick behalten:
    - Wartung & Updates
    - Hosting & Performance
    - Sicherheit & Backups
    - Monitoring & Reporting
    - Weiterentwicklung
-   Jeweils aufklappbar → technische Details
+     Jeweils aufklappbar → technische Details
 5. So arbeiten wir → Fester Ansprechpartner, Reaktionszeiten, Stundenkontingente
 6. Social Proof → Testimonial zur Betreuung + "Seit X Jahren betreut"-Zahlen
 7. FAQ → Schema.org FAQPage
 8. CTA → Kontakt
 
 **Technische Details (aufklappbar):**
+
 - Webhosting auf eigenen Servern mit Plesk-Verwaltung
 - Domains über externen Domain-Reseller
 - E-Mail: Microsoft Exchange und Business-Postfächer
@@ -147,6 +149,7 @@ Konsolidierte Seite `/in-guten-haenden` – ersetzt die bisherigen Einzelseiten 
 - Tracking: Matomo (datenschutzkonform)
 
 **Wartungspakete (Referenz aus bestehendem PDF-Angebot):**
+
 - 4 Pakete: Basic (8h) / Medium (16h) / Large (32h) / Advanced (64h)
 - Preisstaffelung nach Kontingent (105-120€/h)
 - Hinweis auf Netzwerk/vonformat.design bei grafischen Arbeiten
@@ -154,6 +157,7 @@ Konsolidierte Seite `/in-guten-haenden` – ersetzt die bisherigen Einzelseiten 
 **Baukasten/WordPress:** Wird NICHT aktiv auf der Website beworben. Stattdessen im persönlichen Gespräch empfohlen für Kunden ohne Budget. Verweis auf Ratgeber-Artikel `/ratgeber/technologie/sitejet-baukasten` für Self-Service-Anleitung.
 
 **Tiefe in Ratgeber auslagern:**
+
 - `/ratgeber/barrierefreiheit/*` – BFSG, WCAG, ARIA
 - `/ratgeber/dsgvo/*` – Cookie Consent, Datenschutzerklärung, AVV
 - Ggf. `/ratgeber/webdesign/website-wartung-kosten`
@@ -193,7 +197,8 @@ Kompetenz innerhalb von Webdesign, keine eigenständige Dienstleistung die Kunde
 Eigene Ratgeber-Artikel decken Unterthemen ab. Die Leistungsseite `/seo` bleibt eine Seite.
 
 ### Barrierefreiheit, Wartung, Hosting als Einzelseiten → Nein
-Konsolidiert zu `/in-guten-haenden`. Alle drei Themen adressieren dasselbe Kundenbedürfnis: Sicherheit. "Bei der Erstellung" (Barrierefreiheit, Datenschutz, Recht) und "Nach dem Launch" (Wartung, Hosting, Monitoring) als zwei Phasen auf einer Seite. Tiefe über Ratgeber-Artikel. Barrierefreiheit-Ratgeber-Hub bleibt bestehen.
+
+Konsolidiert zu `/rundum-sicher`. Alle drei Themen adressieren dasselbe Kundenbedürfnis: Sicherheit. "Bei der Erstellung" (Barrierefreiheit, Datenschutz, Recht) und "Nach dem Launch" (Wartung, Hosting, Monitoring) als zwei Phasen auf einer Seite. Tiefe über Ratgeber-Artikel.
 
 ### Hosting: Baukasten aktiv bewerben → Nein
 
