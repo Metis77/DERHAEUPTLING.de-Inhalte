@@ -269,6 +269,14 @@ _Quellen: derhaeuptling.de/#Kunden (7 Testimonials), Google Maps (15 Rezensionen
 - Premium-Seiten: Kontaktformular / Terminanfrage
 - Hosting-Seite: Kontakt (technische Infrastruktur, kein Self-Service-Checkout)
 
-**Aktuelle Baseline:** Rankt gut für "Webdesign Regensburg"
+**Aktuelle Baseline:**
+
+- "Webdesign Regensburg" (Local SEO): Rank 1–3
+- Traffic, Conversions: TODO – aus Search Console + Matomo auslesen (Zugang vorhanden, kein Google Analytics)
+
+**Ranking-Ziele:**
+
+- /webdesign → Rank 1 für "Webdesign Regensburg"
+- Jede neue Leistungs-Landingpage → Rank 1 für ihr Ziel-Keyword
 
 _Conversion-Strategie, Vertrauenselemente, Funnel-Stufen und Inspirationsquellen → siehe `sitemap/sitemap.md`_

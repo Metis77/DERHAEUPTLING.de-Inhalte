@@ -20,7 +20,7 @@
 - [x] Switching Dynamics vertiefen (JTBD Four Forces, hypothetisch – Interviews empfohlen)
 - [x] Customer Language: "Wie Kunden UNS beschreiben" ergänzen
 - [x] Proof Points: Testimonials erfasst (→ Customer Language). Metriken fehlen → TODO Kunden befragen (Vorher/Nachher: Rankings, Traffic, Ladezeiten, Anfragen)
-- [ ] Goals: Aktuelle Metriken erfassen (Traffic, Conversions, Rankings)
+- [x] Goals: Ranking-Ziele definiert. Baseline-Metriken → TODO aus Search Console + Matomo auslesen
 
 ## Aktuell: Inhalt erstellen
 
