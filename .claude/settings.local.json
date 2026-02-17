@@ -11,7 +11,7 @@
       "Bash(git status:*)",
       "Bash(git diff:*)",
       "Bash(git log:*)",
-      "Bash(ls:*)",
+      "Bash(ls)",
       "Bash(rm:*)",
       "mcp__plugin_playwright_playwright__browser_navigate",
       "mcp__plugin_playwright_playwright__browser_snapshot",
@@ -24,7 +24,8 @@
       "mcp__plugin_playwright_playwright__browser_wait_for",
       "Bash(git remote set-url:*)",
       "Bash(git fetch:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Read(//Users/Nook/.claude/**)"
     ]
   }
 }

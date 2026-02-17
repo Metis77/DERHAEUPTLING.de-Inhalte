@@ -6,13 +6,13 @@
 ☰ Burger-Menü (immer):
   Webdesign
   SEO
-  Barrierefreiheit
+  Rundum sicher          → /in-guten-haenden
   Referenzen
   Über uns
   Kontakt
 ```
 
-Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in einer Zeile sauber positionieren – Burger hält die Seite clean und lenkt den Fokus auf den Content. Leistungen direkt als Menüpunkte, kein "Leistungen"-Dropdown. Hosting und Wartung als sekundäre Links (Footer, Querverweise von Leistungsseiten).
+Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in einer Zeile sauber positionieren – Burger hält die Seite clean und lenkt den Fokus auf den Content. Leistungen direkt als Menüpunkte, kein "Leistungen"-Dropdown.
 
 ## Seitenstruktur
 
@@ -22,10 +22,8 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 ├── /webdesign                 Webdesign                      🔵 Premium
 │
 ├── /seo                       SEO (inkl. GEO & AEO)          🔵 Premium
-├── /barrierefreiheit          Barrierefreiheit                🔵 Premium
 │
-├── /wartung-support           Wartung & Support               🟠 Bestandskunden
-├── /hosting                   Hosting & Infrastruktur         🟠 Bestandskunden
+├── /in-guten-haenden          In guten Händen                 🔵 Premium
 │
 ├── /ratgeber                  Ratgeber (Hub)                  📚 Wiki
 │   ├── /ratgeber/seo              SEO-Hub
@@ -62,13 +60,12 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 ├── /kontakt                   Kontakt
 │
 ├── /impressum                 Impressum                       ⚫ Footer
-└── /datenschutz               Datenschutz                     ⚫ Footer
+└── /datenschutzerklaerung     Datenschutzerklärung            ⚫ Footer
 ```
 
 ## Legende
 
 - 🔵 **Premium-Funnel** – Leistungsseiten → Kontakt/Termin
-- 🟠 **Bestandskunden-Funnel** – Für bestehende Kunden und Infrastruktur-Interessierte → Paket buchen / Kontakt
 - 📚 **Wiki/Ratgeber** – Wissensbasis, verlinkt auf Leistungsseiten und umgekehrt
 - ⚫ **Footer** – Rechtliches
 - ohne Markierung – Übergreifend (Referenzen, Über uns, Kontakt)
@@ -112,37 +109,35 @@ Eine starke Seite `/webdesign` statt Unterseiten. Enthält Sections für:
 
 Unterseiten (`/webdesign/shops`, `/webdesign/web-apps`) nur nachrüsten wenn Keyword-Recherche relevantes eigenständiges Suchvolumen zeigt.
 
-## Wartung & Support – Seitenkonzept
+## In guten Händen – Seitenkonzept
 
-Eigenständige Leistungsseite unter `/wartung-support`. Kein Haupt-Navpunkt, aber prominent verlinkt aus:
+Konsolidierte Seite `/in-guten-haenden` – ersetzt die bisherigen Einzelseiten `/barrierefreiheit`, `/wartung-support` und `/hosting`. Haupt-Navpunkt (ersetzt Barrierefreiheit im Menü).
 
-- Footer-Navigation
-- Jeder Leistungsseite ("Nach dem Launch: Wartung & Support")
-- Referenzen/Case Studies
+**Positionierung:** Sicherheitsversprechen für Neukunden (Pre-Sales). Adressiert das Bedürfnis: "Ich will sicher sein, dass an alles gedacht wurde – bei der Erstellung und danach." Keine Keyword-Seite, sondern Trust-/Conversion-Seite.
 
-Inhalte (basierend auf bestehendem PDF-Angebot):
+**Seitenaufbau:**
+1. Hero → "In guten Händen" + Subline + CTA
+   Subline-Richtung: "Von der ersten Zeile Code bis zum laufenden Betrieb – wir denken an alles."
+2. Problem → Was passiert wenn niemand mitdenkt?
+   (Rechtsmängel, Datenschutzlücken, Ausfälle, veraltete Software, unzugängliche Seiten)
+3. Bei der Erstellung → Was wir von Anfang an richtig machen:
+   - Barrierefreiheit (BFSG, WCAG – kein Overlay)
+   - Datenschutz & Integrationen (Privacy-by-Design: Tools wählen die keinen Consent brauchen. Consent Manager richtig einrichten wenn doch nötig.)
+   - Rechtssicherheit (Impressum, DSGVO-Konformität)
+   Jeweils aufklappbar → technische Details
+4. Nach dem Launch → Was wir dauerhaft im Blick behalten:
+   - Wartung & Updates
+   - Hosting & Performance
+   - Sicherheit & Backups
+   - Monitoring & Reporting
+   - Weiterentwicklung
+   Jeweils aufklappbar → technische Details
+5. So arbeiten wir → Fester Ansprechpartner, Reaktionszeiten, Stundenkontingente
+6. Social Proof → Testimonial zur Betreuung + "Seit X Jahren betreut"-Zahlen
+7. FAQ → Schema.org FAQPage
+8. CTA → Kontakt
 
-- Monitoring, Sicherheitsupdates, Weiterentwicklung, Support, grafische Arbeiten
-- 4 Pakete: Basic (8h) / Medium (16h) / Large (32h) / Advanced (64h)
-- Preisstaffelung nach Kontingent (105-120€/h)
-- Hinweis auf Netzwerk/vonformat.design bei grafischen Arbeiten
-
-## Hosting & Infrastruktur – Seitenkonzept
-
-Eigenständige Seite `/hosting` mit Fokus auf **technische Kompetenz**, nicht auf Baukasten-Verkauf.
-
-**Positionierung:** "Wir kümmern uns um die komplette Infrastruktur" – ein Signal an Premium-Kunden, dass die technische Basis stimmt.
-
-**Sichtbar (Nutzen):**
-
-- Domains & E-Mail – alles eingerichtet (Exchange, Business-Postfächer)
-- Hosting & Performance – schnell, mit CDN und Monitoring
-- DevOps – automatische Deployments, kein FTP
-- Sicherheit – SSL, Updates, Backups
-- Tracking – datenschutzkonform mit Matomo
-
-**Für Techniker (Detail, z.B. aufklappbar):**
-
+**Technische Details (aufklappbar):**
 - Webhosting auf eigenen Servern mit Plesk-Verwaltung
 - Domains über externen Domain-Reseller
 - E-Mail: Microsoft Exchange und Business-Postfächer
@@ -151,7 +146,17 @@ Eigenständige Seite `/hosting` mit Fokus auf **technische Kompetenz**, nicht au
 - Uptime-Monitoring
 - Tracking: Matomo (datenschutzkonform)
 
+**Wartungspakete (Referenz aus bestehendem PDF-Angebot):**
+- 4 Pakete: Basic (8h) / Medium (16h) / Large (32h) / Advanced (64h)
+- Preisstaffelung nach Kontingent (105-120€/h)
+- Hinweis auf Netzwerk/vonformat.design bei grafischen Arbeiten
+
 **Baukasten/WordPress:** Wird NICHT aktiv auf der Website beworben. Stattdessen im persönlichen Gespräch empfohlen für Kunden ohne Budget. Verweis auf Ratgeber-Artikel `/ratgeber/technologie/sitejet-baukasten` für Self-Service-Anleitung.
+
+**Tiefe in Ratgeber auslagern:**
+- `/ratgeber/barrierefreiheit/*` – BFSG, WCAG, ARIA
+- `/ratgeber/dsgvo/*` – Cookie Consent, Datenschutzerklärung, AVV
+- Ggf. `/ratgeber/webdesign/website-wartung-kosten`
 
 ## SEO-Seite – Positionierung zu GEO & AEO
 
@@ -186,6 +191,9 @@ Kompetenz innerhalb von Webdesign, keine eigenständige Dienstleistung die Kunde
 ### SEO-Unterseiten als Leistung → Nein
 
 Eigene Ratgeber-Artikel decken Unterthemen ab. Die Leistungsseite `/seo` bleibt eine Seite.
+
+### Barrierefreiheit, Wartung, Hosting als Einzelseiten → Nein
+Konsolidiert zu `/in-guten-haenden`. Alle drei Themen adressieren dasselbe Kundenbedürfnis: Sicherheit. "Bei der Erstellung" (Barrierefreiheit, Datenschutz, Recht) und "Nach dem Launch" (Wartung, Hosting, Monitoring) als zwei Phasen auf einer Seite. Tiefe über Ratgeber-Artikel. Barrierefreiheit-Ratgeber-Hub bleibt bestehen.
 
 ### Hosting: Baukasten aktiv bewerben → Nein
 

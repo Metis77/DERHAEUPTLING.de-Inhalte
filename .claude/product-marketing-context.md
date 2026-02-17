@@ -278,12 +278,18 @@ Ranking-Expansion – über "Webdesign Regensburg" hinaus für weitere Keywords 
 
 **Seitenstruktur, Keywords & Conversion Actions** → siehe `sitemap/sitemap.md`
 
+- Webdesign (inkl. UX/UI als Kompetenz, Websites, Shops, Web-Apps)
+- SEO (inkl. GEO & AEO als Einordnung, nicht als eigenständiges Keyword)
+- "In guten Händen" – Trust-/Conversion-Seite (Barrierefreiheit, Datenschutz, Rechtssicherheit, Wartung, Hosting, Monitoring). Keine Keyword-Seite, sondern Sicherheitsversprechen. Keyword-Abdeckung für Barrierefreiheit, Hosting etc. über Ratgeber-Artikel.
+
 **Aktuelle Baseline:**
 
 - "Webdesign Regensburg" (Local SEO): Rank 1–3
 - Traffic, Conversions: TODO – aus Search Console + Matomo auslesen (Zugang vorhanden, kein Google Analytics)
 
 **Ranking-Ziele:**
+
+- Alle Leistungsseiten: Kontaktformular / Terminanfrage
 
 - /webdesign → Rank 1 für "Webdesign Regensburg"
 - Jede neue Leistungs-Landingpage → Rank 1 für ihr Ziel-Keyword
