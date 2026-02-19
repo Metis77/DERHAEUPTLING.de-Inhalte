@@ -21,7 +21,10 @@
       "mcp__plugin_playwright_playwright__browser_tabs",
       "mcp__plugin_playwright_playwright__browser_run_code",
       "mcp__plugin_playwright_playwright__browser_close",
-      "mcp__plugin_playwright_playwright__browser_wait_for"
+      "mcp__plugin_playwright_playwright__browser_wait_for",
+      "Bash(git remote set-url:*)",
+      "Bash(git fetch:*)",
+      "Bash(git push:*)"
     ]
   }
 }
