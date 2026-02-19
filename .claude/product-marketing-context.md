@@ -1,7 +1,7 @@
 # Product Marketing Context
 
 _Erstellt mit Skill: `product-marketing-context`_
-_Last updated: 2026-02-17_
+_Last updated: 2026-02-19_
 
 ## Product Overview
 
@@ -17,8 +17,15 @@ DER HÄUPTLING entwickelt Websites, Shops, Web-Apps und digitale Lösungen im ei
 **Business Model:**
 
 - Projektbasiert (individuelle Websites, Shops, Web-Apps)
-- Pakete (SEO-Audits, Barrierefreiheit, Beratung)
+- Pakete (SEO-Audit ca. 490-590€ als Einstiegsprodukt, Barrierefreiheit, Beratung)
 - Recurring (Hosting, Wartung & Support)
+
+**Micro-Conversions (auf der Website):**
+
+- **Kostenlose Tools** (Trust-Builder, kein E-Mail-Sammeln): Website-Checkliste, SEO-Checkliste, Barrierefreiheits-Check. Demonstrieren Kompetenz und erleichtern den Schritt zur Kontaktaufnahme.
+- **SEO-Audit (bezahlt, ca. 490-590€):** Niedrigschwelliges Einstiegsprodukt. Führt im Anschluss zu Beratung und konkreten Maßnahmen (Upsell zu Projekten). Kein kostenloses Giveaway, sondern eigenständige Dienstleistung.
+
+Kein Newsletter, keine E-Mail-Kampagnen (Overhead als Soloselbstständiger zu hoch).
 
 **Hosting & Infrastruktur:** Full-Service aus einer Hand (Server, Domains, E-Mail, CDN, DevOps, Monitoring, Tracking). Inkl. Self-Service-Tools (SiteJet-Baukasten, WordPress) für Budget-Kunden. Details → `sitemap/sitemap.md` (Hosting-Seitenkonzept).
 

@@ -72,10 +72,16 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 
 ## Querverlinkung (Prinzip)
 
-Ratgeber und Leistungsseiten verlinken immer in beide Richtungen:
+Alle Seitentypen verlinken aktiv aufeinander:
 
 - **Leistungsseite → Ratgeber:** "Mehr dazu in unserem Ratgeber: [Thema]" (für Kunden die tiefer einsteigen wollen)
-- **Ratgeber → Leistungsseite:** "Wir helfen Ihnen dabei – [Leistung ansehen]" (für Kunden die Hilfe brauchen)
+- **Ratgeber → Leistungsseite:** CTA-Section am Artikelende + kontextuelle CTAs im Text (für Kunden die Hilfe brauchen)
+- **Leistungsseite → Referenz:** "Beispiel: [Projektname]" (Social Proof im Kontext)
+- **Referenz → Leistungsseite:** "Mehr zu unserer [Leistung]" (Weiterführung)
+- **Ratgeber → Ratgeber:** Cross-Cluster-Links wo thematisch sinnvoll (z.B. SEO-Artikel → Barrierefreiheits-Artikel)
+- **Homepage → alle Leistungsseiten + Ratgeber-Hubs** (Link Equity verteilen)
+
+**Ratgeber-CTA-Muster:** Jeder Ratgeber-Artikel hat am Ende eine CTA-Section mit Verweis auf die passende Leistungsseite oder ein Micro-Conversion-Tool. Zusätzlich kontextuelle CTAs im Fließtext wo natürlich passend.
 
 ## Seitenaufbau pro Leistungsseite
 
@@ -159,8 +165,26 @@ Konsolidierte Seite `/rundum-sicher`. Bündelt Barrierefreiheit, Datenschutz, Re
 **Tiefe in Ratgeber auslagern:**
 
 - `/ratgeber/barrierefreiheit/*` – BFSG, WCAG, ARIA
-- `/ratgeber/dsgvo/*` – Cookie Consent, Datenschutzerklärung, AVV
+- `/ratgeber/datenschutz` – Cookie Consent, Datenschutzerklärung, AV-Verträge (praxisnah, ein Artikel)
 - Ggf. `/ratgeber/webdesign/website-wartung-kosten`
+
+## SEO – Seitenkonzept
+
+Abweichung vom Standard-Seitenaufbau: Die /seo-Seite hat als Haupt-CTA den SEO-Audit (ca. 490-590€) mit direktem Checkout, nicht nur Kontakt/Termin.
+
+**Positionierung des Audits:** Ohne saubere Analyse kann man keine sinnvollen Empfehlungen geben. Der Audit ist kein Zusatzverkauf, sondern der logische erste Schritt. "Wir versprechen keine Rankings, bevor wir nicht wissen, wo Sie stehen." Differenziert von Wettbewerbern die SEO-Pakete verkaufen ohne den Ist-Zustand zu kennen.
+
+```
+1. Hero         → Claim + Subline + CTA ("SEO-Audit buchen")
+2. Problem      → Warum braucht der Kunde SEO? (Customer Language)
+3. Lösung       → Was genau bieten wir? (SEO-Leistungen)
+4. SEO-Audit    → Produktbeschreibung, Preis, Lieferumfang, Checkout-CTA
+5. Prozess      → Wie arbeiten wir? (4-6 Schritte)
+6. Social Proof → Referenzbeispiele + Testimonial
+7. GEO & AEO    → Einordnung (siehe unten)
+8. FAQ          → Schema.org FAQPage
+9. CTA          → SEO-Audit buchen + Kontakt für individuelle Anfragen
+```
 
 ## SEO-Seite – Positionierung zu GEO & AEO
 
@@ -229,9 +253,21 @@ Wird aktuell nicht aktiv angeboten. Kann als Ratgeber-Artikel (`/ratgeber/seo/se
 3. **Consideration:** Social Proof (Bewertungen, Logos, Referenzen)
 4. **Decision:** CTA je nach Seitentyp (Kontakt/Termin)
 
+### Micro-Conversions
+
+**Kostenlose Tools** (Trust-Builder, kein E-Mail-Sammeln):
+- Website-Checkliste / SEO-Checkliste
+- Barrierefreiheits-Check
+- Ggf. Website-Briefing-Vorlage
+
+**SEO-Audit (bezahlt, ca. 490-590€):**
+Niedrigschwelliges Einstiegsprodukt. Eigenständige Dienstleistung mit klarem Deliverable. Upsell-Pfad: Audit → Beratung → konkrete Maßnahmen → Projekt. **Haupt-CTA auf /seo mit direktem Checkout** (statt nur Kontaktformular). Die /seo-Seite wird damit zur Conversion-Seite für das Audit-Produkt.
+
+Kein Newsletter, keine E-Mail-Kampagnen. URLs und Integration (eigene Seiten vs. in Ratgeber/Leistungsseite integriert) noch zu klären.
+
 ### Vertrauenselemente (auf allen Leistungsseiten)
 
-- Kundenbewertungen prominent einbinden (z.B. ProvenExpert, Google Reviews)
+- **Google Reviews nativ einbinden** (5,0 Sterne, 30 Rezensionen – kein ProvenExpert-Widget nötig)
 - Kundenlogos zeigen wo möglich
 - Transparenzversprechen / Arbeitsweise offenlegen
 - **Testimonials mit Namen + Rolle** (z.B. "Geschäftsführer, Firma X")
