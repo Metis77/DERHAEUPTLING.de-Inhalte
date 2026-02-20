@@ -7,8 +7,7 @@
   - Search Intent pro Keyword (informational / transactional)
   - Keyword-Mapping: jede Seite bekommt Primary + Secondary Keywords
   - Ratgeber-Priorisierung anhand Suchvolumen x Relevanz x Schwierigkeit
-- [ ] **301-Redirect-Plan** erstellen (bestehende URLs von derhaeuptling.de → neue Struktur)
-- [ ] **Baseline-Metriken** aus Search Console + Matomo auslesen
+- [x] **301-Redirect-Plan** erstellen (bestehende URLs von derhaeuptling.de → neue Struktur)
 
 ## Content-Reihenfolge (Kern zum Relaunch)
 

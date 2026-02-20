@@ -26,32 +26,27 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 ├── /rundum-sicher            Rundum sicher                   🔵 Premium
 │
 ├── /ratgeber                  Ratgeber (Hub)                  📚 Wiki
-│   ├── /ratgeber/seo              SEO-Hub
+│   ├── /ratgeber/seo              SEO-Hub (Übersichtsseite mit SEO-Basics)
 │   │   ├── /ratgeber/seo/keyword-recherche
 │   │   ├── /ratgeber/seo/onpage-optimierung
 │   │   ├── /ratgeber/seo/technisches-seo
+│   │   ├── /ratgeber/seo/content-optimierung
+│   │   ├── /ratgeber/seo/backlinks-linkbuilding
 │   │   ├── /ratgeber/seo/local-seo
 │   │   └── /ratgeber/seo/geo-aeo-einordnung
 │   │
-│   ├── /ratgeber/barrierefreiheit     Barrierefreiheit-Hub
-│   │   ├── /ratgeber/barrierefreiheit/bfsg-anforderungen
-│   │   ├── /ratgeber/barrierefreiheit/wcag-checkliste
-│   │   └── /ratgeber/barrierefreiheit/aria-grundlagen
-│   │
-│   ├── /ratgeber/datenschutz          Datenschutz (praxisnah)
-│   │
 │   ├── /ratgeber/technologie      Technologie-Hub
-│   │   ├── /ratgeber/technologie/sitejet-baukasten
 │   │   ├── /ratgeber/technologie/contao
 │   │   ├── /ratgeber/technologie/craft-cms
-│   │   ├── /ratgeber/technologie/javascript-apps
 │   │   ├── /ratgeber/technologie/cms-vergleich
 │   │   └── /ratgeber/technologie/wordpress-alternativen
+│   │   ├── /ratgeber/technologie/sitejet-baukasten
 │   │
-│   └── /ratgeber/webdesign        Webdesign-Hub
-│       ├── /ratgeber/webdesign/website-briefing
-│       ├── /ratgeber/webdesign/website-vs-webapp
-│       └── /ratgeber/webdesign/was-kostet-website
+│   ├── /ratgeber/was-kostet-website
+│   ├── /ratgeber/website-briefing
+│   ├── /ratgeber/website-relaunch
+│   ├── /ratgeber/barrierefreiheit         (inkl. WCAG-Basics)
+│   └── /ratgeber/datenschutz              (praxisnah)
 │
 ├── /referenzen                Referenzen
 │   └── /referenzen/[slug]         Case Study
@@ -244,6 +239,30 @@ Stattdessen ein praxisnaher Datenschutz-Artikel der zeigt, wie Website-Datenschu
 
 Wird aktuell nicht aktiv angeboten. Kann als Ratgeber-Artikel (`/ratgeber/seo/sea-grundlagen`) vorbereitet werden. Leistungsseite nachrüsten wenn SEA ins Portfolio aufgenommen wird.
 
+### Ratgeber-Überarbeitung (2026-02-20)
+
+**Zielgruppe der Ratgeber:** Fachlich tief, für technisch interessierte Kunden, SEO-Abdeckung und eigenes Nachschlagewerk. Nicht auf KMU-Laien zugeschnitten – dafür sind die Leistungsseiten da.
+
+**Gestrichen:**
+
+- `aria-grundlagen` → zu nischig, minimales SV, kein Bezug zur Leistung
+- `wcag-checkliste` → in `bfsg-website` integriert (ein Artikel statt drei)
+- ~~`sitejet-baukasten`~~ → wieder aufgenommen, Self-Service-Anleitung für Budget-Kunden bleibt relevant
+- `javascript-apps` → zu breit ("JavaScript Framework Vergleich" ist kein klares Thema)
+- `website-vs-webapp` → minimales SV erwartet, zu nischig
+
+**Ergänzt:**
+
+- `website-relaunch` → hohes SV, direkt relevant für Kerngeschäft
+
+**Umbenannt:**
+
+- `bfsg-anforderungen` → `bfsg-website` (inkl. WCAG-Basics)
+
+**SEO-Hub:** 7 Kapitel + Hub-Übersichtsseite (SEO-Basics), angelehnt an Mangools Learn SEO. Fachlich tief, jeder Artikel mit CTA zur /seo-Leistungsseite. Ergänzt um `content-optimierung` und `backlinks-linkbuilding`. Analytics als Abschnitt in `technisches-seo` integriert, nicht als eigener Artikel.
+
+**Webdesign-Hub aufgelöst:** Einzelartikel (was-kostet-website, website-briefing, website-relaunch) flach unter `/ratgeber/`. Ebenso barrierefreiheit und datenschutz. Grund: Hubs nur wo die Tiefe sie rechtfertigt (SEO: 7 Kapitel, Technologie: 4 Artikel). Einzelartikel brauchen keinen künstlichen Hub.
+
 ## Conversion-Strategie
 
 ### Funnel-Stufen
@@ -256,6 +275,7 @@ Wird aktuell nicht aktiv angeboten. Kann als Ratgeber-Artikel (`/ratgeber/seo/se
 ### Micro-Conversions
 
 **Kostenlose Tools** (Trust-Builder, kein E-Mail-Sammeln):
+
 - Website-Checkliste / SEO-Checkliste
 - Barrierefreiheits-Check
 - Ggf. Website-Briefing-Vorlage
