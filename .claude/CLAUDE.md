@@ -28,7 +28,10 @@ DH Inhalte/
 ├── research/              # Keyword-Recherche, Wettbewerber-Analysen
 ├── seiten/                # Seitenstruktur + Inhalte pro Seite
 │   ├── sitemap.md         # Informationsarchitektur & Seitenkonzepte
-│   └── webdesign/         # (Unterordner je Seite)
+│   ├── 01-homepage/       # Ordner nummeriert gemäß Sitemap-Reihenfolge
+│   ├── 02-webdesign/
+│   ├── 03-seo/
+│   ├── ...                # usw.
 ├── tracking/              # Entscheidungslog, Fortschritt
 └── .claude/
     └── product-marketing-context.md  # WER/WAS/FÜR WEN
