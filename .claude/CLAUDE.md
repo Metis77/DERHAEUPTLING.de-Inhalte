@@ -26,8 +26,9 @@
 ```
 DH Inhalte/
 ├── research/              # Keyword-Recherche, Wettbewerber-Analysen
-├── sitemap/               # Seitenstruktur & Informationsarchitektur
-├── seiten/                # Inhalte pro Seite (Unterordner je Seite, gemäß Sitemap)
+├── seiten/                # Seitenstruktur + Inhalte pro Seite
+│   ├── sitemap.md         # Informationsarchitektur & Seitenkonzepte
+│   └── webdesign/         # (Unterordner je Seite)
 ├── tracking/              # Entscheidungslog, Fortschritt
 └── .claude/
     └── product-marketing-context.md  # WER/WAS/FÜR WEN
@@ -37,7 +38,7 @@ DH Inhalte/
 
 - **TODO.md** (Root) – Aufgaben und Fortschritt. Bei Sessionstart lesen, nach erledigten Aufgaben aktualisieren.
 - **Product Marketing Context:** `.claude/product-marketing-context.md` – Positionierung, Zielgruppe, Differenzierung, Brand Voice. Erstellt mit Skill `product-marketing-context`.
-- **Sitemap:** `sitemap/sitemap.md` – WIE die Website gebaut ist (Struktur, Seitenkonzepte, Technik, Conversion-Strategie).
+- **Sitemap:** `seiten/sitemap.md` – WIE die Website gebaut ist (Struktur, Seitenkonzepte, Technik, Conversion-Strategie).
 
 ## Häufige Fehler – nicht wiederholen
 

@@ -159,7 +159,21 @@ Hosting, Wartung, SEO, Weiterentwicklung – wir betreuen Kunden seit Jahren. Ni
 
 ---
 
-## 7. Testimonials
+## 7. Manifest
+
+> *Wir sind Gestalter und Entwickler. Mit leichtem Fuß und klarer Kante in Gespräch und Design. Wir glauben an die Kraft einer guten Idee und die Liebe zum Detail. Wir gehen auch Umwege, wenn die Aussicht lohnt. Wir sind Denker und Lenker.*
+> *Wir sind von format . design.*
+
+### Anmerkungen
+
+- Eigenständiger Zwischenblock zwischen den rationalen Differenzierungsargumenten (Section 6) und den Kundenstimmen (Section 8). Rhythmus: Logik → Emotion → Beweis.
+- Visuell als großes Zitat / Statement gestalten (volle Breite, andere Typografie als Fließtext).
+- Verlinkt auf vonformat.design – zeigt das Netzwerk hinter DER HÄUPTLING.
+- Auf der Startseite prominenter einsetzbar (z.B. Hero-Bereich), hier bewusst als Zwischenakzent.
+
+---
+
+## 8. Testimonials
 
 > ### Was unsere Kunden sagen
 
@@ -184,7 +198,7 @@ Hosting, Wartung, SEO, Weiterentwicklung – wir betreuen Kunden seit Jahren. Ni
 
 ---
 
-## 8. Technologie
+## 9. Technologie
 
 > ### Damit arbeiten wir
 
@@ -205,7 +219,7 @@ Content Management, E-Commerce oder Individualentwicklung – je nach Anforderun
 
 ---
 
-## 9. FAQ
+## 10. FAQ
 
 > ### Häufige Fragen
 
@@ -235,7 +249,7 @@ Nicht, wenn es richtig gemacht wird. Wir erstellen einen Redirect-Plan, überneh
 
 ---
 
-## 10. CTA
+## 11. CTA
 
 > ### Bereit für den nächsten Schritt?
 

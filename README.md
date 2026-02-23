@@ -15,8 +15,7 @@ claude /plugin marketplace add anthropics/claude-plugins-official
 ## Struktur
 
 - `research/` – Keyword-Recherche, Wettbewerber-Analysen
-- `sitemap/` – Seitenstruktur & Informationsarchitektur
-- `seiten/` – Inhalte pro Seite (Homepage, Leistungsseiten, etc.)
+- `seiten/` – Seitenstruktur (sitemap.md) + Inhalte pro Seite (Unterordner je Seite)
 - `tracking/` – Entscheidungslog, Fortschritt
 - `.claude/product-marketing-context.md` – Positionierung, Zielgruppe, Brand Voice
 
