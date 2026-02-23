@@ -2,11 +2,12 @@
 
 ## Aktuell: Vor Content-Erstellung
 
-- [ ] **Keyword-Recherche** für alle geplanten Seiten (Leistungsseiten + Ratgeber)
-  - Suchvolumen + Keyword Difficulty (regional + national)
-  - Search Intent pro Keyword (informational / transactional)
-  - Keyword-Mapping: jede Seite bekommt Primary + Secondary Keywords
-  - Ratgeber-Priorisierung anhand Suchvolumen x Relevanz x Schwierigkeit
+- [x] **Keyword-Recherche** für alle geplanten Seiten (Leistungsseiten + Ratgeber)
+  - ~~Suchvolumen + Keyword Difficulty (regional + national)~~ ✅ KWFinder-Export (162 Keywords)
+  - ~~Search Intent pro Keyword (informational / transactional)~~ ✅
+  - ~~Keyword-Mapping: jede Seite bekommt Primary + Secondary Keywords~~ ✅ → `research/keyword-mapping.md`
+  - ~~Ratgeber-Priorisierung anhand Suchvolumen x Relevanz x Schwierigkeit~~ ✅
+- [x] **Nischen-Keywords entscheiden:** Generisch belassen, keine Branchen-LPs → Entscheidung dokumentiert in `sitemap/sitemap.md` + `research/keyword-mapping.md`
 - [x] **301-Redirect-Plan** erstellen (bestehende URLs von derhaeuptling.de → neue Struktur)
 
 ## Content-Reihenfolge (Kern zum Relaunch)
@@ -18,7 +19,12 @@
 5. [ ] /ueber-uns (E-E-A-T, Vertrauen – Konzept fehlt noch)
 6. [ ] /kontakt
 7. [ ] /referenzen + 2-3 Case Studies (mit qualitativen Ergebnissen + Search Console-Daten)
-8. [ ] 3-5 Ratgeber-Artikel (Auswahl nach Keyword-Recherche)
+8. [ ] Ratgeber-Artikel nach Priorisierung (siehe `research/keyword-mapping.md`):
+   1. /ratgeber/website-relaunch (Quick Win: SV 12.100, KD 22)
+   2. /ratgeber/barrierefreiheit (Quick Win: SV 2.430, KD 22)
+   3. /ratgeber/was-kostet-website (SV 4.090, KD 29)
+   4. /ratgeber/seo/local-seo (SV 4.840, KD 29)
+   5. /ratgeber/seo/geo-aeo-einordnung (Quick Win: SV 1.430, KD 16)
 
 ## Offene Konzepte (vor der jeweiligen Seite klären)
 
@@ -46,3 +52,4 @@
 - [x] **Dokumente bereinigen:** Klare Trennung Marketing-Kontext vs. Sitemap
 - [x] **Marketing-Kontext anreichern:** Pain Points, Competitive Landscape (16 Wettbewerber), Objections, Switching Dynamics (JTBD), Customer Language (Testimonials), Proof Points, Goals, Personas (bewusst übersprungen)
 - [x] **Strategie-Review:** SEO-Audit + Brainstorming durchgeführt, Content-Reihenfolge festgelegt, blinde Flecken identifiziert, Dokumente aktualisiert
+- [x] **Keyword-Recherche:** 162 Keywords aus KWFinder, Keyword-Mapping mit Primary/Secondary pro Seite, Ratgeber-Priorisierung, Nischen-Keywords identifiziert, Ratgeber-Struktur überarbeitet (15→14 Artikel, SEO-Hub 5→7 Kapitel)

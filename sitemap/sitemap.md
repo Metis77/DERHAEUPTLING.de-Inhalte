@@ -235,6 +235,18 @@ Keine `/craft-cms-agentur`-Seiten. Stattdessen ausführliche Ratgeber-Artikel zu
 
 Stattdessen ein praxisnaher Datenschutz-Artikel der zeigt, wie Website-Datenschutz pragmatisch umgesetzt wird (Consent, Datenschutzerklärung, AV-Verträge). Positionierung: Gegen unnötige und falsch konfigurierte Consent-Manager-Automatismen – für pragmatischen, korrekten Datenschutz. Keyword-Relevanz in der Recherche prüfen.
 
+### Nischen-Keywords (Ärzte/Zahnärzte/Handwerker) → Nein, vorerst
+
+Keine branchenspezifischen Landing-Pages. Gründe:
+
+1. **Keine Referenzen:** Ohne nachweisbare Branchenprojekte fehlt die Glaubwürdigkeit für branchenspezifische Seiten
+2. **Positionierung ist branchenunabhängig:** Product-Marketing-Context definiert den Häuptling als branchenunabhängigen Webdesigner/SEO für KMU
+3. **Risiko:** Generische Branchenseiten ohne echte Case Studies wirken austauschbar und untergraben die Qualitätspositionierung
+
+**Nachrüsten wenn:** Konkrete Ärzte-/Zahnarzt-Projekte als Referenz verfügbar sind. Dann lohnen sich eigene LPs (SV ~7.000, KD 10-21 = Low-Hanging-Fruits).
+
+**Shopify/E-Commerce:** Analog – als Section auf /webdesign integriert, eigene LP erst bei dediziertem Branchenfokus.
+
 ### SEA als Leistung → Nein, vorerst
 
 Wird aktuell nicht aktiv angeboten. Kann als Ratgeber-Artikel (`/ratgeber/seo/sea-grundlagen`) vorbereitet werden. Leistungsseite nachrüsten wenn SEA ins Portfolio aufgenommen wird.
