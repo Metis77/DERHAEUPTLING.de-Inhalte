@@ -8,7 +8,6 @@
   SEO
   Rundum sicher
   Referenzen
-  Über uns
   Kontakt
 ```
 
@@ -51,7 +50,6 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 ├── /referenzen                Referenzen
 │   └── /referenzen/[slug]         Case Study
 │
-├── /ueber-uns                 Über uns
 ├── /kontakt                   Kontakt
 │
 ├── /impressum                 Impressum                       ⚫ Footer
@@ -63,7 +61,7 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 - 🔵 **Premium-Funnel** – Leistungsseiten → Kontakt/Termin
 - 📚 **Wiki/Ratgeber** – Wissensbasis, verlinkt auf Leistungsseiten und umgekehrt
 - ⚫ **Footer** – Rechtliches
-- ohne Markierung – Übergreifend (Referenzen, Über uns, Kontakt)
+- ohne Markierung – Übergreifend (Referenzen, Kontakt)
 
 ## Querverlinkung (Prinzip)
 
@@ -222,6 +220,16 @@ Konsolidiert zu `/rundum-sicher`. Alle drei Themen adressieren dasselbe Kundenbe
 ### Hosting: Baukasten aktiv bewerben → Nein
 
 SiteJet und WordPress werden nicht auf der Website beworben. Empfehlung im persönlichen Gespräch für Budget-Kunden. Ratgeber-Artikel als Self-Service-Anleitung.
+
+### /ueber-uns als eigene Seite → Nein
+
+Für einen Freelancer mit Netzwerk überdimensioniert. Stattdessen:
+
+- **Homepage:** "Das sind wir" – alle Netzwerk-Partner zeigen, Netzwerk-Modell erklären
+- **/webdesign:** Alle Partner (hier arbeiten alle mit)
+- **/seo, /rundum-sicher:** Martin als Ansprechpartner (Foto + kurzer Satz)
+
+E-E-A-T wird über Homepage (Team), Leistungsseiten (Ansprechpartner), Referenzen (Ergebnisse) und Schema.org (`ProfessionalService`) abgedeckt.
 
 ### Städte-Landing-Pages → Nein
 

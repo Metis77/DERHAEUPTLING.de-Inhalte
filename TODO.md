@@ -16,8 +16,7 @@
 2. [ ] Homepage (meistbesuchte Seite, verlinkt alle Leistungsseiten)
 3. [ ] /seo (zweiter Keyword-Cluster)
 4. [ ] /rundum-sicher (Trust-Seite, stützt alle Leistungsseiten)
-5. [ ] /ueber-uns (E-E-A-T, Vertrauen – Konzept fehlt noch)
-6. [ ] /kontakt
+5. [ ] /kontakt
 7. [ ] /referenzen + 2-3 Case Studies (mit qualitativen Ergebnissen + Search Console-Daten)
 8. [ ] Ratgeber-Artikel nach Priorisierung (siehe `research/keyword-mapping.md`):
    1. /ratgeber/website-relaunch (Quick Win: SV 12.100, KD 22)
@@ -29,7 +28,7 @@
 ## Offene Konzepte (vor der jeweiligen Seite klären)
 
 - [ ] Homepage-Konzept erstellen (Hero, Leistungsübersicht, Social Proof, CTA-Strategie)
-- [ ] /ueber-uns Konzept erstellen (Martin + Netzwerk-Partner, E-E-A-T)
+- [x] ~~/ueber-uns Konzept erstellen~~ → Entscheidung: Keine eigene Seite. Team auf Homepage + Ansprechpartner auf Leistungsseiten (siehe sitemap.md)
 - [ ] /referenzen Template definieren (Problem → Lösung → Ergebnis)
 - [ ] Micro-Conversion-Tools konzipieren (URLs, Integration, Seitentyp)
 

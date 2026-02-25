@@ -145,6 +145,12 @@ In der Designphase sprechen Sie mit dem Designer, in der Entwicklung mit dem Ent
 **Netzwerk statt Agentur.**
 Ein eingespieltes Team aus spezialisierten Selbstständigen – Designer, Konzepter, Entwickler, die aus Überzeugung zusammenarbeiten. Flexibler als eine Agentur, verlässlicher als ein einzelner Freelancer.
 
+`[Team-Grid: Alle Partner mit Foto + Name + Schwerpunkt]`
+- Martin Schwenzer – Webentwicklung & Projektleitung
+- Florian Toperngpong – Konzept & Design
+- Florian Hammerich – Fotografie
+- `[weitere Partner aus vonformat.design]`
+
 **Gestaltung und Technik auf hohem Niveau.**
 Viele können hübsch. Viele können Code. Beides zusammen – auf hohem Niveau – ist selten. Wir gestalten und entwickeln von Grund auf, statt Templates anzupassen.
 
@@ -155,6 +161,7 @@ Hosting, Wartung, SEO, Weiterentwicklung – wir betreuen Kunden seit Jahren. Ni
 
 - "Ihr Ansprechpartner macht die Umsetzung" korrigiert: Martin = Entwickler/AP. Designer sind Partner im Team, nicht Martin selbst. Das Differenzierungsmerkmal ist nicht "eine Person macht alles", sondern "Sie sprechen mit den Leuten die es tatsächlich bauen".
 - "Netzwerk statt Agentur" – bewusst gewählt, weil DER HÄUPTLING explizit keine Agentur ist (Product-Marketing-Context: "Webentwickler mit Netzwerk, explizit KEINE Agentur").
+- **Team-Grid:** Alle Netzwerk-Partner hier zeigen, weil bei Webdesign-Projekten alle Disziplinen zusammenspielen. Auf /seo und /rundum-sicher nur Martin als Ansprechpartner (dort arbeitet primär er). Entscheidung: Keine eigene /ueber-uns-Seite – Team wird auf Homepage (Überblick) und Leistungsseiten (kontextuell) gezeigt.
 - "Statt Templates anzupassen" grenzt ab ohne andere abzuwerten – keine negative Aussage über WordPress oder Baukästen.
 
 ---
@@ -287,3 +294,4 @@ Webentwicklung & Projektleitung, Regensburg
 - [ ] **Briefing-URL:** /briefing als eigene Seite mit Formular? Oder /kontakt mit Briefing-Sektion? Technische Entscheidung.
 - [ ] **Testimonials:** 3 ausgewählt (Ainedter, Hecht, Wexler). Weitere aus Google-Bewertungen nachrüstbar. Google-Widget ja/nein?
 - [ ] **Martin-Bezeichnung:** "Webentwicklung & Projektleitung" – stimmt das? Oder lieber "Webdesign & Entwicklung" wie bisher?
+- [ ] **Team-Grid:** Vollständige Liste der vonformat.design-Partner mit Schwerpunkten. Fotos/Darstellung analog zur aktuellen derhaeuptling.de, aber besser in die Seite integriert.
