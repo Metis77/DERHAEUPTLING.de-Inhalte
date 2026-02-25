@@ -21,6 +21,7 @@ Immer Burger-Menü, auch Desktop. Grund: Viele Menüpunkte lassen sich schwer in
 ├── /webdesign                 Webdesign                      🔵 Premium
 │
 ├── /seo                       SEO (inkl. GEO & AEO)          🔵 Premium
+│   └── /seo/audit-buchen         SEO-Audit Checkout          🔵 Checkout
 │
 ├── /rundum-sicher            Rundum sicher                   🔵 Premium
 │
@@ -163,7 +164,7 @@ Konsolidierte Seite `/rundum-sicher`. Bündelt Barrierefreiheit, Datenschutz, Re
 
 ## SEO – Seitenkonzept
 
-Abweichung vom Standard-Seitenaufbau: Die /seo-Seite hat als Haupt-CTA den SEO-Audit (ca. 490-590€) mit direktem Checkout, nicht nur Kontakt/Termin.
+Abweichung vom Standard-Seitenaufbau: Die /seo-Seite hat als Haupt-CTA den SEO-Audit (790-1.290€) mit Link zur separaten Checkout-Seite `/seo/audit-buchen`, nicht nur Kontakt/Termin.
 
 **Positionierung des Audits:** Ohne saubere Analyse kann man keine sinnvollen Empfehlungen geben. Der Audit ist kein Zusatzverkauf, sondern der logische erste Schritt. "Wir versprechen keine Rankings, bevor wir nicht wissen, wo Sie stehen." Differenziert von Wettbewerbern die SEO-Pakete verkaufen ohne den Ist-Zustand zu kennen.
 
@@ -171,11 +172,11 @@ Abweichung vom Standard-Seitenaufbau: Die /seo-Seite hat als Haupt-CTA den SEO-A
 1. Hero         → Claim + Subline + CTA ("SEO-Audit buchen")
 2. Problem      → Warum braucht der Kunde SEO? (Customer Language)
 3. Lösung       → Was genau bieten wir? (SEO-Leistungen)
-4. SEO-Audit    → Produktbeschreibung, Preis, Lieferumfang, Checkout-CTA
+4. SEO-Audit    → Produktbeschreibung, Preis, Lieferumfang, Checkout-CTA → /seo/audit-buchen
 5. Prozess      → Wie arbeiten wir? (4-6 Schritte)
 6. Social Proof → Referenzbeispiele + Testimonial
-7. GEO & AEO    → Einordnung (siehe unten)
-8. FAQ          → Schema.org FAQPage
+7. FAQ          → Schema.org FAQPage
+8. GEO & AEO    → Einordnung (siehe unten)
 9. CTA          → SEO-Audit buchen + Kontakt für individuelle Anfragen
 ```
 

@@ -97,16 +97,16 @@ Bevor wir optimieren, müssen wir verstehen. Der SEO-Audit ist eine vollständig
 **Was Sie bekommen:**
 
 `[Icon]` **Technik-Check**
-Crawling, Indexierung, Ladezeiten, Core Web Vitals, Mobile-Optimierung, HTTPS. Wir prüfen die technische Basis und dokumentieren jeden Fehler mit Handlungsempfehlung.
+Crawling, Indexierung, Ladezeiten, Core Web Vitals, Mobile-Optimierung, HTTPS, URL-Struktur und Schema.org-Markup. Wir prüfen die technische Basis und dokumentieren relevante Fehler mit Handlungsempfehlung.
 
 `[Icon]` **Onpage-Analyse**
 Meta-Daten, Überschriften-Struktur, Bilder, interne Verlinkung. Wo verschenken Sie Potenzial auf den Seiten, die Sie bereits haben?
 
 `[Icon]` **Keyword- & Wettbewerbsanalyse**
-Wonach sucht Ihre Zielgruppe? Wofür ranken Ihre Wettbewerber? Wo liegen ungenutzte Chancen? Wir zeigen Ihnen die Lücken und Potenziale.
+Wonach sucht Ihre Zielgruppe? Wofür ranken Ihre Wettbewerber? Wie sieht Ihr Backlink-Profil im Vergleich aus? Wir zeigen Ihnen die Lücken und Potenziale.
 
 `[Icon]` **Content & Struktur**
-Sind die richtigen Seiten vorhanden? Fehlen Themen, die Ihre Zielgruppe sucht? Wir bewerten Ihre Inhalte und empfehlen, was erstellt, überarbeitet oder entfernt werden sollte.
+Sind die richtigen Seiten vorhanden? Fehlen Themen, die Ihre Zielgruppe sucht? Wir bewerten Ihre Inhalte auf Relevanz, Tiefe und Vertrauenssignale (E-E-A-T) – und empfehlen, was erstellt, überarbeitet oder entfernt werden sollte.
 
 `[Icon]` **UX-Analyse**
 Wie erleben Besucher Ihre Website? Finden sie, was sie suchen? Wir prüfen Navigation, Nutzerführung und Conversion-Pfade – und zeigen, wo Besucher es unnötig schwer haben.
@@ -135,7 +135,7 @@ Alle Pakete beinhalten den vollen Audit-Umfang (8 Bestandteile) inkl. persönlic
 
 ### Anmerkungen
 
-- 8 Bestandteile – vergleichbar mit SEO Revolution (7 Blöcke) und Hanseranking (6 Phasen). Unser USP: UX-Analyse und Local SEO sind inklusive, nicht extra.
+- 8 Bestandteile – vergleichbar mit SEO Revolution (7 Blöcke) und Hanseranking (6 Phasen). Unser USP: UX-Analyse und Local SEO sind inklusive, nicht extra. Backlinks, Schema.org, URL-Struktur und E-E-A-T sind als Unterpunkte in bestehende Blöcke integriert (nicht als eigene Blöcke), um die Struktur kompakt zu halten.
 - "Keine automatisierte Checkliste" differenziert von Tools wie Screaming Frog Reports, die manche Agenturen als "Audit" verkaufen.
 - "Unterstützt durch spezialisierte KI-Tools" + "deutlich effizienter" – erklärt proaktiv den Preisvorteil gegenüber Agenturen (Evergreen Media: ab 2.799€, ithelps: ab 1.500€ für vergleichbaren Umfang). Vorbild: WEBU nennt "KI-Sichtbarkeitsaudit" ebenfalls offen.
 - Preise bewusst transparent. Kein Wettbewerber in Regensburg zeigt SEO-Preise. Das schafft Vertrauen und filtert Budget-Kunden heraus.
@@ -295,9 +295,9 @@ SEO & Webentwicklung, Regensburg
 
 - [ ] **Meta Description:** Sobald Schema.org `AggregateRating` im SERP angezeigt wird, "5,0 Sterne bei 30 Bewertungen" durch den Preis ersetzen: "Suchmaschinenoptimierung aus Regensburg. SEO-Audit, Strategie und Umsetzung aus einer Hand. Audit ab 790 €."
 - [x] **Audit-Preis:** Entschieden – 3 Pakete nach Website-Typ: Starter 790€, Business 1.290€, Commerce auf Anfrage.
-- [ ] **Audit-Checkout:** Direkter Checkout auf der Seite (wie in Sitemap geplant) oder Anfrage-Formular? Technische Entscheidung.
+- [x] **Audit-Checkout:** Entschieden – Separate Checkout-Seite `/seo/audit-buchen` mit Two-Step-Ansatz: Minimales Kaufformular (Name, E-Mail, Firma, Rechnungsadresse), Detail-Fragen erst nach dem Kauf (Website-URL, Ziele, Search Console Zugang). Siehe `seiten/03-seo/seo-audit-checkout.md`.
 - [ ] **SEO-Referenzen:** Keine konkreten SEO-Ergebnisse vorhanden, keine SEO-spezifischen Testimonials. Langfristig: Kunden-KPIs sammeln.
-- [ ] **Laufende Betreuung – Pricing:** Monatliche Betreuung wird erwähnt, aber kein Preis genannt. Empfehlung: Auf Anfrage belassen (zu individuell für Festpreise).
+- [x] **Laufende Betreuung – Pricing:** Monatliche Betreuung wird erwähnt, aber kein Preis genannt. Empfehlung: Auf Anfrage belassen (zu individuell für Festpreise).
 - [ ] **GEO/AEO-Section:** Bleibt das auf der /seo-Seite oder wird es ausgelagert, wenn der Ratgeber-Artikel existiert? Empfehlung: Beides – kurze Einordnung hier, Tiefe im Ratgeber.
 - [ ] **Martin-Bezeichnung:** "SEO & Webentwicklung" – konsistent mit /webdesign ("Webentwicklung & Projektleitung")?
 - [ ] **Kostenloser SEO-Check als Lead-Magnet:** WEBU macht das erfolgreich (Sichtbarkeitscheck in 60 Sekunden). Könnte als Micro-Conversion auf der /seo-Seite funktionieren. Technischer Aufwand vs. Nutzen abwägen. → Verknüpft mit TODO "Micro-Conversion-Tools konzipieren".
